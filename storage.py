@@ -16,17 +16,11 @@ def load_session_json(path: str):
         return json.load(f)
 
 def save_article_docx(outpath: str, article: dict):
-    """
-    Create a docx for a single article.
-    article: {title, author, date, issue, bodies: [str]}
-    """
     doc = Document()
+    
     table = doc.add_table(rows=5, cols=2)
     table.autofit = False
-
-    # Force column widths (label column narrower)
     for row in table.rows:
-        # only set approximate width on cells; python-docx uses these hints
         row.cells[0].width = Inches(1.5)
         row.cells[1].width = Inches(4.5)
 
@@ -43,7 +37,14 @@ def save_article_docx(outpath: str, article: dict):
         table.cell(i, 0).text = labels[i]
         table.cell(i, 1).text = values[i]
 
-    # save
+    # Add images after table
+    if article.get("images"):
+        doc.add_paragraph("\nImages:")
+        for img in article["images"]:
+            path = img.get("path")
+            if path and os.path.exists(path):
+                doc.add_picture(path, width=Inches(4))
+
     doc.save(outpath)
 
 def safe_filename(s: str) -> str:

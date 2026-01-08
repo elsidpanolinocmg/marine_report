@@ -1,6 +1,8 @@
 env
+env312
 .env
 __pycache__
 Annotations_ignore
 annotations_dataset_ignore
 PDFS_ignore
+Processed_Articles

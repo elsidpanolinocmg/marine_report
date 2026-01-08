@@ -1,0 +1,2348 @@
+{
+  "pdf_path": "C:/Users/HP/Desktop/Digitalizer/PDFS_ignore/29th July 1977.pdf",
+  "articles": {
+    "cad043ca-7b09-4001-af12-7d68b0d0208b": {
+      "id": "cad043ca-7b09-4001-af12-7d68b0d0208b",
+      "title": "Toyota forklifts serves PSAs new gate",
+      "author": "",
+      "date": "",
+      "issue": "",
+      "bodies": [
+        "United Motor Works latest coup is a single tender award for the supply. of 102 units 3 ton diesel driven forklift trucks and ten units 2’ ton battery forklifts to PSA. These forklifts are now operating",
+        "at PSA’s new gateway at Pasir Panjang, Singapore. Quite apart from this deal Toyota forklift trucks are currently the largest selling range of material handling equipment in Singapore and Malaysia.",
+        "Their range of forklifts available covers 1000 kg to 25000 kg diesel driven forklift trucks, petrol and LP. gas trucks from 700 kg to 6000 kg and battery powered from 500 kg to 4000 kg. The main models are available almost immediately. Forklift trucks have made material handling fast, efficient and indeed safe. With international trade growing and material handling becomingmore than just efficient and neat stacking, forklifts have undergone many innovations in adaptability.",
+        "The Toyota forklifts come with many attachments suitable for various diversified industries. For very high lifts a 3-stage mast can be fitted to reach a height of 6500 mm (256”). To load and unload in low holds of ships and containers a 2stage full free lift mast can be attached together with a side-shifter. Their forklifts can also be attached with clamps for work with bales of cotton or pulp, drums and a full 360 rotating clamp for paper rolls. Further versatility of these workhorses is obtained by attaching a ram for coiled goods, a crane arm for lifting objects with slings, hinged forks which can be coupled with bucket, load stabilizers for high stack and fragile cargo. Toyota forklifts come with UMW after sales service guarantee. UMW maintain a large fleet of mobile inspection and service vehicles manned by highly skilled trouble-shooter mechanics. This unit minimises lay down time and regularly inspects Toyota forklifts at worksites to diagnose potential problems free of charge, advise on necessary replacement parts and service the trucks if required. They are on call as well. One UMW spokesman added, “Our motto is — service with expertise.” A mouthful? No, a varifiable fact."
+      ],
+      "images": [
+        {
+          "path": "Processed_Articles\\images\\cad043ca-7b09-4001-af12-7d68b0d0208b_07ac772cffab44bc96bb7ac6e1619d61.png",
+          "bbox": [
+            135.23666416228397,
+            916.6040570999247,
+            1066.8670172802401,
+            2280.240420736288
+          ],
+          "page_index": 0
+        },
+        {
+          "path": "Processed_Articles\\images\\cad043ca-7b09-4001-af12-7d68b0d0208b_cc93b2294f6c47e69d811451f7e02992.png",
+          "bbox": [
+            1064.4850221149366,
+            1049.6416054718995,
+            1552.197283243294,
+            1588.2455808049551
+          ],
+          "page_index": 0
+        }
+      ],
+      "annotations": [
+        {
+          "id": "b432a724-64ea-40c8-be78-51be944d3d1e",
+          "article_id": "cad043ca-7b09-4001-af12-7d68b0d0208b",
+          "page_index": 0,
+          "bbox_orig": [
+            296.76934635612315,
+            706.235912847483,
+            1363.6363636363633,
+            796.3936889556722
+          ],
+          "type": "Title",
+          "text": "Toyota forklifts serves PSAs new gate"
+        },
+        {
+          "id": "36cb7293-13a3-4605-88b0-a3405f999994",
+          "article_id": "cad043ca-7b09-4001-af12-7d68b0d0208b",
+          "page_index": 0,
+          "bbox_orig": [
+            135.23666416228397,
+            916.6040570999247,
+            1066.8670172802401,
+            2280.240420736288
+          ],
+          "type": "Image",
+          "text": "",
+          "path": "Processed_Articles\\images\\cad043ca-7b09-4001-af12-7d68b0d0208b_07ac772cffab44bc96bb7ac6e1619d61.png"
+        },
+        {
+          "id": "375656e0-0fb2-4694-8a89-0dcc929cd7c5",
+          "article_id": "cad043ca-7b09-4001-af12-7d68b0d0208b",
+          "page_index": 0,
+          "bbox_orig": [
+            108.14489268498359,
+            769.7371773460596,
+            581.013737170304,
+            907.5689033171172
+          ],
+          "type": "Body",
+          "text": "United Motor Works latest coup is a single tender award for the supply. of 102 units 3 ton diesel driven forklift trucks and ten units 2’ ton battery forklifts to PSA. These forklifts are now operating"
+        },
+        {
+          "id": "5d5a6bd0-392a-4377-b7d9-4f0aeeb04bd3",
+          "article_id": "cad043ca-7b09-4001-af12-7d68b0d0208b",
+          "page_index": 0,
+          "bbox_orig": [
+            583.1342252621664,
+            771.8576654379222,
+            1062.3645340230742,
+            905.4484152252548
+          ],
+          "type": "Body",
+          "text": "at PSA’s new gateway at Pasir Panjang, Singapore. Quite apart from this deal Toyota forklift trucks are currently the largest selling range of material handling equipment in Singapore and Malaysia."
+        },
+        {
+          "id": "acb67761-aa30-4871-a8d6-21855d9005c6",
+          "article_id": "cad043ca-7b09-4001-af12-7d68b0d0208b",
+          "page_index": 0,
+          "bbox_orig": [
+            1066.605510206799,
+            778.2191297135093,
+            1535.2333785083945,
+            1051.762093563762
+          ],
+          "type": "Body",
+          "text": "Their range of forklifts available covers 1000 kg to 25000 kg diesel driven forklift trucks, petrol and LP. gas trucks from 700 kg to 6000 kg and battery powered from 500 kg to 4000 kg. The main models are available almost immediately. Forklift trucks have made material handling fast, efficient and indeed safe. With international trade growing and material handling becomingmore than just efficient and neat stacking, forklifts have undergone many innovations in adaptability."
+        },
+        {
+          "id": "c6937b64-503d-48f2-af69-b77e8e96b799",
+          "article_id": "cad043ca-7b09-4001-af12-7d68b0d0208b",
+          "page_index": 0,
+          "bbox_orig": [
+            1064.4850221149366,
+            1049.6416054718995,
+            1552.197283243294,
+            1588.2455808049551
+          ],
+          "type": "Image",
+          "text": "",
+          "path": "Processed_Articles\\images\\cad043ca-7b09-4001-af12-7d68b0d0208b_cc93b2294f6c47e69d811451f7e02992.png"
+        },
+        {
+          "id": "4d721510-f513-46ca-8cf7-4004a263a1d8",
+          "article_id": "cad043ca-7b09-4001-af12-7d68b0d0208b",
+          "page_index": 0,
+          "bbox_orig": [
+            1173.266061227479,
+            1742.4050650833533,
+            1530.1442070879248,
+            2260.2282571161572
+          ],
+          "type": "Body",
+          "text": "orklifts can also be attached with clamps with bales of cotton or pulp, drums and | rotating clamp for paper rolls. Further of these workhorses is obtained by a ram for coiled goods, a crane arm for jects with slings, hinged forks which can d with bucket, load stabilizers for high fragile cargo. | forklifts come with UMW after sales arantee. UMW maintain a large fleet of ispection and service vehicles manned skilled trouble-shooter mechanics. This nises lay down time and regularly inspects klifts at worksites to diagnose potential free of charge, advise on necessary replaces and service the trucks if required. They | as well. MW spokesman added, “Our motto is — ith expertise.” A mouthful? No, a vari-"
+        },
+        {
+          "id": "cd2193ba-f174-4b12-bd5b-1e649d3f92a6",
+          "article_id": "cad043ca-7b09-4001-af12-7d68b0d0208b",
+          "page_index": 0,
+          "bbox_orig": [
+            1072.9669744823864,
+            1583.7925558120442,
+            1574.4624082078494,
+            2306.8789951371305
+          ],
+          "type": "Body",
+          "text": "eThe Toyota forklifts come with many attachments suitable for various diversified industries. For very high lifts a 3-stage mast can be fitted to reach a height of 6500 mm (256”). To load and unload in low holds of ships and containers a 2stage full free lift mast can be attached together with a side-shifter. Their forklifts can also be attached with clamps for work with bales of cotton or pulp, drums and a full 360 rotating clamp for paper rolls. Further versatility of these workhorses is obtained by attaching a ram for coiled goods, a crane arm for lifting objects with slings, hinged forks which can be coupled with bucket, load stabilizers for high stack and fragile cargo. Toyota forklifts come with UMW after sales service guarantee. UMW maintain a large fleet of mobile inspection and service vehicles manned by highly skilled trouble-shooter mechanics. This unit minimises lay down time and regularly inspects Toyota forklifts at worksites to diagnose potential problems free of charge, advise on necessary replacement parts and service the trucks if required. They are on call as well. One UMW spokesman added, “Our motto is — service with expertise.” A mouthful? No, a varifiable fact."
+        }
+      ],
+      "manual_modified": true
+    },
+    "8bdeda19-db38-4a93-9b64-4d5e56b09f62": {
+      "id": "8bdeda19-db38-4a93-9b64-4d5e56b09f62",
+      "title": "CONTAINERISED PLEASURE BOATS",
+      "author": "",
+      "date": "",
+      "issue": "",
+      "bodies": [
+        "Newly-built pleasure boats are becoming a common sight on the decks of containerships these days, as the box carriers are proving a safer and faster mode of transport for high-value cargoes. With the systematic loading and unloading and placement of containers on board, uncontainerisable deck cargoes are not so prone to hard knocks that are common in conventional shipping. American Marine, builder of the Grand Banks range of luxury crafts, over the weekend exported a 32 foot model to a client in Europe. The boat was fixed with a cradle and loaded on board the ScanDutch containership Nedlloyd Delft for a slightly over 20-day trip to Denmark. American Marine, which exports about 10 per cent of its boats to Europe, uses containership transport to ensure the high quality finishing of its crafts remains intact when delivered to customers."
+      ],
+      "annotations": [
+        {
+          "id": "cb0e927e-66cb-41de-b7fa-544834583b3f",
+          "article_id": "8bdeda19-db38-4a93-9b64-4d5e56b09f62",
+          "page_index": 1,
+          "bbox_orig": [
+            222.23992919921875,
+            181.69424438476562,
+            724.4431762695312,
+            334.4302978515625
+          ],
+          "type": "Title",
+          "text": "New Port Facility Nears Completion"
+        },
+        {
+          "id": "7faa4d4a-1540-46d5-9da9-c99d2de5bd7a",
+          "article_id": "8bdeda19-db38-4a93-9b64-4d5e56b09f62",
+          "page_index": 1,
+          "bbox_orig": [
+            110.69403076171875,
+            356.9523010253906,
+            823.6663208007812,
+            771.359375
+          ],
+          "type": "Image",
+          "text": "",
+          "path": "Processed_Articles\\images\\8bdeda19-db38-4a93-9b64-4d5e56b09f62_3b7ebcb49a0249858a08ab798117425d.png"
+        },
+        {
+          "id": "c812f640-8c4e-4041-b2fd-9ac4277fc816",
+          "article_id": "8bdeda19-db38-4a93-9b64-4d5e56b09f62",
+          "page_index": 1,
+          "bbox_orig": [
+            108.96531677246094,
+            1791.3553466796875,
+            589.69287109375,
+            2241.481201171875
+          ],
+          "type": "Body",
+          "text": "Newly-built pleasure boats are becoming a common sight on the decks of containerships these days, as the box carriers are proving a safer and faster mode of transport for high-value cargoes. With the systematic loading and unloading and placement of containers on board, uncontainerisable deck cargoes are not so prone to hard knocks that are common in conventional shipping. American Marine, builder of the Grand Banks range of luxury crafts, over the weekend exported a 32 foot model to a client in Europe. The boat was fixed with a cradle and loaded on board the ScanDutch containership Nedlloyd Delft for a slightly over 20-day trip to Denmark. American Marine, which exports about 10 per cent of its boats to Europe, uses containership transport to ensure the high quality finishing of its crafts remains intact when delivered to customers."
+        },
+        {
+          "id": "51a9a2f2-2105-438e-b145-edaed186dfdc",
+          "article_id": "8bdeda19-db38-4a93-9b64-4d5e56b09f62",
+          "page_index": 1,
+          "bbox_orig": [
+            606.5364379882812,
+            1052.1466064453125,
+            1519.244140625,
+            2163.240966796875
+          ],
+          "type": "Image",
+          "text": "",
+          "path": "Processed_Articles\\images\\8bdeda19-db38-4a93-9b64-4d5e56b09f62_331133834f324fe0a794046f72361f68.png"
+        },
+        {
+          "id": "9736c846-0977-4bb3-8174-8dfe010b1729",
+          "article_id": "8bdeda19-db38-4a93-9b64-4d5e56b09f62",
+          "page_index": 1,
+          "bbox_orig": [
+            235.3821282540751,
+            1701.0281801827828,
+            530.3943956658493,
+            1782.6273179775287
+          ],
+          "type": "Title",
+          "text": "CONTAINERISED PLEASURE BOATS"
+        }
+      ],
+      "manual_modified": true,
+      "images": [
+        {
+          "path": "Processed_Articles\\images\\8bdeda19-db38-4a93-9b64-4d5e56b09f62_3b7ebcb49a0249858a08ab798117425d.png",
+          "bbox": [
+            110.69403076171875,
+            356.9523010253906,
+            823.6663208007812,
+            771.359375
+          ],
+          "page_index": 1
+        },
+        {
+          "path": "Processed_Articles\\images\\8bdeda19-db38-4a93-9b64-4d5e56b09f62_331133834f324fe0a794046f72361f68.png",
+          "bbox": [
+            606.5364379882812,
+            1052.1466064453125,
+            1519.244140625,
+            2163.240966796875
+          ],
+          "page_index": 1
+        }
+      ]
+    },
+    "7e37015e-53f0-4f44-a472-437aac0f7f7b": {
+      "id": "7e37015e-53f0-4f44-a472-437aac0f7f7b",
+      "title": "New Port Facility Nears Completion",
+      "author": "",
+      "date": "",
+      "issue": "",
+      "bodies": [
+        "At the East Lagoon on the northern side of the PSA container terminal , two new container berths are now under construction. These berths will cater increased container traffic expected in the next few years. The first berth will provide a special shore based ramp designed to service the three new vessels of the ANRO Consortium which comprises the Australian National Line, Neptune Orient Lines of Singapore, Australia Straits Container Line and Nedllyod Lines. Completion of the berth is expected by the end of September 1977.",
+        "The two berths totalling about S$66 million will be 640 metres in length with two main access bridges linking them to a 19.5 hectare marshalling yard and 10.5 heotares of back up land. The schedule was 18 months for completion of the first berth and 26 months for the complete project. To date the schedule has been maintained. Although the extra capacity provided by the 2 berths will help equip the terminal to cater for the estimated growth in container traffic between now and 1980, the project has been designed to be as flexible as possible. Four 35 tonne portainer cranes purchased at a cost of about $$2.56 million each, plus several transtainer cranes will service the berths. This equipment combined with the modern gear and design of the vessels will help cater for the growth in cargo traffic by improving turn-around times and collection and delivery of cargo. The two new berths will be equipped and fully operational by 1979 just about the same time the existing facilities will have reached their optimum capacity. The construction of the two new berths coincides with the commencement of work on a $$50 million inland container depot at Bukit Timah, about 25 kilometres from the terminal. Its function will be a container storage area and a break bulk consolidation depot.",
+        "Possibly the only organisation specialising in oilfield material handling, on a large scale. in Singapore, is Boswell International (H.K.) Pte Ltd. Their offices are perched symbo lically high in the Chinese Chamber ot! Commerce. Apart from their oilfield material handling they also haul heavy and allied equipment. The company maintains a fleet of nearly thirty heavy loaders with a range of three to sixty-five tons individually. Their clients have the added advantage of total service in the form of shipping and air freight documentation both for inward and outward destinations. Shipping and airfreight offices are located within the same roof, thus saving time and effort. Boswell also own boats and barges and have their own crew and boarding officers. This makes it easier for them to carry out their work efficiently and in the shortest time possible. The company’s efficiency rating is pretty high due mainly to the fact that it has its own workshops for maintenance. As a result of this facility special loads are always escorted by another vehicle carrying qualified mechanics, spares and ancilliary neces: sities in the event of a breakdown. This mini-",
+        "mises breakdown time and the expensive and time consuming process of transferring loads from the breakdown vehicle to another. Add to this the fact that their staff is highly experienced and have been with the company for some years. Their loyalty is total and their personal interest in the safe, fast and economical delivery of loads. In a brief conversation with the Singapore Shipping and Air Gazette, Mr Jeorji Boswell, a director of the company said, “We are a service organisation and as such we must be very thorough in our systems. Millions of dollars worth of goods pass through our hands, because of trust. Therefore we cannot afford mistakes.” Boswell International operates on more than 95% local staff, whom they look after well. Only the top echelon executives are | expatriates. : What is amazing is that the company, | while being very modern in its operations, is able to remain highly competitive in charges _ and in some instances even lower than the | test of the transport companies. This is perhaps possible because of their being almost self sufficient. We say almost because they do not own an oilfield."
+      ],
+      "annotations": [
+        {
+          "id": "b5380da3-42cd-479c-a573-3a5bc7a4db17",
+          "article_id": "7e37015e-53f0-4f44-a472-437aac0f7f7b",
+          "page_index": 1,
+          "bbox_orig": [
+            207.49939680800006,
+            183.91991989800005,
+            747.4694180470002,
+            330.1126767400001
+          ],
+          "type": "Title",
+          "text": "New Port Facility Nears Completion"
+        },
+        {
+          "id": "8d391550-1bc8-4ef1-9bbe-6a284bedb513",
+          "article_id": "7e37015e-53f0-4f44-a472-437aac0f7f7b",
+          "page_index": 1,
+          "bbox_orig": [
+            110.82354147700002,
+            834.7134826140002,
+            841.7873256870001,
+            999.7698209840003
+          ],
+          "type": "Body",
+          "text": "At the East Lagoon on the northern side of the PSA container terminal , two new container berths are now under construction. These berths will cater increased container traffic expected in the next few years. The first berth will provide a special shore based ramp designed to service the three new vessels of the ANRO Consortium which comprises the Australian National Line, Neptune Orient Lines of Singapore, Australia Straits Container Line and Nedllyod Lines. Completion of the berth is expected by the end of September 1977."
+        },
+        {
+          "id": "38aa6195-255c-42bc-aeb7-6b52655a048b",
+          "article_id": "7e37015e-53f0-4f44-a472-437aac0f7f7b",
+          "page_index": 1,
+          "bbox_orig": [
+            103.74969840400003,
+            997.4118732930002,
+            594.2028181320002,
+            1634.0577498630003
+          ],
+          "type": "Body",
+          "text": "The two berths totalling about S$66 million will be 640 metres in length with two main access bridges linking them to a 19.5 hectare marshalling yard and 10.5 heotares of back up land. The schedule was 18 months for completion of the first berth and 26 months for the complete project. To date the schedule has been maintained. Although the extra capacity provided by the 2 berths will help equip the terminal to cater for the estimated growth in container traffic between now and 1980, the project has been designed to be as flexible as possible. Four 35 tonne portainer cranes purchased at a cost of about $$2.56 million each, plus several transtainer cranes will service the berths. This equipment combined with the modern gear and design of the vessels will help cater for the growth in cargo traffic by improving turn-around times and collection and delivery of cargo. The two new berths will be equipped and fully operational by 1979 just about the same time the existing facilities will have reached their optimum capacity. The construction of the two new berths coincides with the commencement of work on a $$50 million inland container depot at Bukit Timah, about 25 kilometres from the terminal. Its function will be a container storage area and a break bulk consolidation depot."
+        },
+        {
+          "id": "f7ea7b21-4a8b-4aa8-b9e6-1cf14a132044",
+          "article_id": "7e37015e-53f0-4f44-a472-437aac0f7f7b",
+          "page_index": 2,
+          "bbox_orig": [
+            91.52644348144531,
+            1204.852783203125,
+            1515.005615234375,
+            2282.677734375
+          ],
+          "type": "Image",
+          "text": "",
+          "path": "Processed_Articles\\images\\7e37015e-53f0-4f44-a472-437aac0f7f7b_8391836e19ea46c790e3c781cba2b964.png"
+        },
+        {
+          "id": "3d1ce77b-3001-4e5e-bddd-d276d5c6cbf7",
+          "article_id": "7e37015e-53f0-4f44-a472-437aac0f7f7b",
+          "page_index": 2,
+          "bbox_orig": [
+            536.98876953125,
+            370.2620849609375,
+            1004.8649291992188,
+            1098.9442138671875
+          ],
+          "type": "Image",
+          "text": "",
+          "path": "Processed_Articles\\images\\7e37015e-53f0-4f44-a472-437aac0f7f7b_53d4905e96704a2b93b6f262b8e1deb9.png"
+        },
+        {
+          "id": "5029d41c-850f-4e64-8f87-a9a92f98aec3",
+          "article_id": "7e37015e-53f0-4f44-a472-437aac0f7f7b",
+          "page_index": 2,
+          "bbox_orig": [
+            74.58367919921875,
+            342.7957763671875,
+            530.2117309570312,
+            1163.768798828125
+          ],
+          "type": "Body",
+          "text": "Possibly the only organisation specialising in oilfield material handling, on a large scale. in Singapore, is Boswell International (H.K.) Pte Ltd. Their offices are perched symbo lically high in the Chinese Chamber ot! Commerce. Apart from their oilfield material handling they also haul heavy and allied equipment. The company maintains a fleet of nearly thirty heavy loaders with a range of three to sixty-five tons individually. Their clients have the added advantage of total service in the form of shipping and air freight documentation both for inward and outward destinations. Shipping and airfreight offices are located within the same roof, thus saving time and effort. Boswell also own boats and barges and have their own crew and boarding officers. This makes it easier for them to carry out their work efficiently and in the shortest time possible. The company’s efficiency rating is pretty high due mainly to the fact that it has its own workshops for maintenance. As a result of this facility special loads are always escorted by another vehicle carrying qualified mechanics, spares and ancilliary neces: sities in the event of a breakdown. This mini-"
+        },
+        {
+          "id": "41715aeb-1917-4ce6-bbae-d79c70e1ef13",
+          "article_id": "7e37015e-53f0-4f44-a472-437aac0f7f7b",
+          "page_index": 2,
+          "bbox_orig": [
+            1002.9720458984375,
+            340.27557373046875,
+            1493.3232421875,
+            1164.5736083984375
+          ],
+          "type": "Body",
+          "text": "mises breakdown time and the expensive and time consuming process of transferring loads from the breakdown vehicle to another. Add to this the fact that their staff is highly experienced and have been with the company for some years. Their loyalty is total and their personal interest in the safe, fast and economical delivery of loads. In a brief conversation with the Singapore Shipping and Air Gazette, Mr Jeorji Boswell, a director of the company said, “We are a service organisation and as such we must be very thorough in our systems. Millions of dollars worth of goods pass through our hands, because of trust. Therefore we cannot afford mistakes.” Boswell International operates on more than 95% local staff, whom they look after well. Only the top echelon executives are | expatriates. : What is amazing is that the company, | while being very modern in its operations, is able to remain highly competitive in charges _ and in some instances even lower than the | test of the transport companies. This is perhaps possible because of their being almost self sufficient. We say almost because they do not own an oilfield."
+        },
+        {
+          "id": "8cceb7c1-0aa2-4bf8-b015-256918ce0443",
+          "article_id": "7e37015e-53f0-4f44-a472-437aac0f7f7b",
+          "page_index": 2,
+          "bbox_orig": [
+            267.3438828426019,
+            217.21690480961402,
+            1365.960151398919,
+            321.64810904500536
+          ],
+          "type": "Body",
+          "text": "Oilfield haulage : Boswell’ Total Service"
+        }
+      ],
+      "manual_modified": true,
+      "images": [
+        {
+          "path": "Processed_Articles\\images\\7e37015e-53f0-4f44-a472-437aac0f7f7b_8391836e19ea46c790e3c781cba2b964.png",
+          "bbox": [
+            91.52644348144531,
+            1204.852783203125,
+            1515.005615234375,
+            2282.677734375
+          ],
+          "page_index": 2
+        },
+        {
+          "path": "Processed_Articles\\images\\7e37015e-53f0-4f44-a472-437aac0f7f7b_53d4905e96704a2b93b6f262b8e1deb9.png",
+          "bbox": [
+            536.98876953125,
+            370.2620849609375,
+            1004.8649291992188,
+            1098.9442138671875
+          ],
+          "page_index": 2
+        }
+      ]
+    },
+    "7fd2fab7-a818-4b19-870a-30fb9b0b6148": {
+      "id": "7fd2fab7-a818-4b19-870a-30fb9b0b6148",
+      "title": "Oilfield haulage : Boswell’ Total Service",
+      "author": "",
+      "date": "",
+      "issue": "",
+      "bodies": [
+        "Possibly the only organisation specialising in oilfield material handling, on a large scale, in Singapore, is Boswell International (H.K.) Pte Ltd. Their offices are perched symbolically high in the Chinese Chamber of Commerce. Apart from their oilfield material handling they also haul heavy and allied equipment. The company maintains a fleet of nearly thirty heavy loaders with a range of three to sixty-five tons individually. Their clients have the added advantage of total service in the form of shipping and air freight documentation both for inward and outward destinations. Shipping and airfreight offices are located within the same roof, thus saving time and effort. Boswell also own boats and barges and have their own crew and boarding officers. This makes it easier for them to carry out their work efficiently and in the shortest time possible. The company’s efficiency rating is pretty high due mainly to the fact that it has its own workshops for maintenance. As a result of this facility special loads are always escorted by another vehicle carrying qualified mechanics, spares and ancilliary necessities in the event of a breakdown. This mini-",
+        "mises breakdown time and the expensive and time consuming process of transferring loads from the breakdown vehicle to another. Add to this the fact that their staff is highly experienced and have been with the company for some years. Their loyalty is total and their personal interest in the safe, fast and economical delivery of loads. In a brief conversation with the Singapore Shipping and Air Gazette, Mr Jeorji Boswell, a director of the company said, “We are a service organisation and as such we must be very thorough in our systems. Millions of dollars worth of goods pass through our hands, because of trust. Therefore we cannot afford mistakes.” Boswell International operates on more than 95% local staff, whom they look after well. Only the top echelon executives are | expatriates. : What is amazing is that the company, | while being very modern in its operations, is able to remain highly competitive in charges _ and in some instances even lower than the | test of the transport companies. This is perhaps possible because of their being almost self sufficient. We say almost because they do not own an oilfield."
+      ],
+      "annotations": [
+        {
+          "id": "2f70fc86-c52e-4723-8a71-aa1010873ff5",
+          "article_id": "7fd2fab7-a818-4b19-870a-30fb9b0b6148",
+          "page_index": 2,
+          "bbox_orig": [
+            229.74864931786098,
+            208.8624084707827,
+            1374.3146477377502,
+            325.825357214421
+          ],
+          "type": "Title",
+          "text": "Oilfield haulage : Boswell’ Total Service"
+        },
+        {
+          "id": "db0eec96-8c70-4201-a392-ce09d291f6cb",
+          "article_id": "7fd2fab7-a818-4b19-870a-30fb9b0b6148",
+          "page_index": 2,
+          "bbox_orig": [
+            71.01321888006612,
+            342.53434989208364,
+            534.6877656852038,
+            1165.4522392669676
+          ],
+          "type": "Body",
+          "text": "Possibly the only organisation specialising in oilfield material handling, on a large scale, in Singapore, is Boswell International (H.K.) Pte Ltd. Their offices are perched symbolically high in the Chinese Chamber of Commerce. Apart from their oilfield material handling they also haul heavy and allied equipment. The company maintains a fleet of nearly thirty heavy loaders with a range of three to sixty-five tons individually. Their clients have the added advantage of total service in the form of shipping and air freight documentation both for inward and outward destinations. Shipping and airfreight offices are located within the same roof, thus saving time and effort. Boswell also own boats and barges and have their own crew and boarding officers. This makes it easier for them to carry out their work efficiently and in the shortest time possible. The company’s efficiency rating is pretty high due mainly to the fact that it has its own workshops for maintenance. As a result of this facility special loads are always escorted by another vehicle carrying qualified mechanics, spares and ancilliary necessities in the event of a breakdown. This mini-"
+        },
+        {
+          "id": "4c6bea8a-f20b-45ca-bd20-b355b496b17c",
+          "article_id": "7fd2fab7-a818-4b19-870a-30fb9b0b6148",
+          "page_index": 2,
+          "bbox_orig": [
+            1002.539560659757,
+            342.53434989208364,
+            1495.4548446508043,
+            1177.9839837752145
+          ],
+          "type": "Body",
+          "text": "mises breakdown time and the expensive and time consuming process of transferring loads from the breakdown vehicle to another. Add to this the fact that their staff is highly experienced and have been with the company for some years. Their loyalty is total and their personal interest in the safe, fast and economical delivery of loads. In a brief conversation with the Singapore Shipping and Air Gazette, Mr Jeorji Boswell, a director of the company said, “We are a service organisation and as such we must be very thorough in our systems. Millions of dollars worth of goods pass through our hands, because of trust. Therefore we cannot afford mistakes.” Boswell International operates on more than 95% local staff, whom they look after well. Only the top echelon executives are | expatriates. : What is amazing is that the company, | while being very modern in its operations, is able to remain highly competitive in charges _ and in some instances even lower than the | test of the transport companies. This is perhaps possible because of their being almost self sufficient. We say almost because they do not own an oilfield."
+        }
+      ],
+      "manual_modified": true
+    },
+    "3ab970fd-776d-4105-b710-bda0f8385bf3": {
+      "id": "3ab970fd-776d-4105-b710-bda0f8385bf3",
+      "title": "RADIOISOTOPE ON STREAM ANALYSIS OF MINERALS",
+      "author": "",
+      "date": "",
+      "issue": "",
+      "bodies": [
+        "A RELIABLE and economic method of on-stream analysis for increasing the efficiency of mineral processing is offered by the Australian Mineral Development Laboratories (AMDEL). AMDEL is a contract research organisation providing technical development and consulting services to industry and government in the fields of mineral and material sciences. ‘The on-stream analytical system, using radioisotope immersion probes, has application to heavy metal processing for elements above titanium in the Periodic Table, in larger-scale modern plant. It provides a method of-continuous automatic readout of metal values in process slurry streams, enabling the most efficient operation of mineral processing plant. The highly significant break-through in this new method of analysis has been the Australian development of a range of immersible probes, each housing a detector head assembly, a scintillation counter and a radioisotope source . The probes are designed to measure mineral content and slurry density, with an accuracy practical to the application, using both X-ray fluorescence and X-ray gammaray absorption techniques, while actually immersed in the Process streams. _ The probes aré inexpensive, of rugged construction and easy to install and to replace. Components of the on-stream analytical system are designed and manufactured by AMDEL will research and development support from the Australian Atomic Energy Commission. The Australian Mineral Industry Research Association and the Zinc Corporation. Under the terms of a worldwide agreement, AMDEL carries out the necessary feasibility studies, and designs, manufactures and installs the equipment. The system is sufficiently flexible to allow step-bystep growth from a basic analysis arrangement to one involving fully computerised plant control with feedback from a number of points in the process. Because of this flexibility, the cost of the installation can be effectively controlled to suit the size of the plant. The cost of the equipment, although a half to a third that of competitors, is likely to be about $A113,000 fora typical 3-stream installation. The IOSA immersion probe system has now a proved history of operation for more than five years in Australia and abroad, for copper, lead, zinc, nickel and tin. AMDEL’s services and facilities include: Analytical chemistry, mineralogy, petrology, geochemistry, geochronology, materials technology, ‘operations research, computer services, geostatistics, mine planning, mineral engineering, chemical metallugry, instrumentation, water treatment, process development, feasibility studies, pat design and commissioning. Inquiries: Australian Mineral Development Laboratories, Flemington Street, Frewville, South Australia 5063. eee Sa PEE CSREES NGS Sai ai Ae ale ED",
+        "ASEA’S NEW METHOD TO CONTAIN NUCLEAR WASTE"
+      ],
+      "annotations": [
+        {
+          "id": "b1d36e3a-16f4-42a8-927e-15f0ed7430a3",
+          "article_id": "3ab970fd-776d-4105-b710-bda0f8385bf3",
+          "page_index": 3,
+          "bbox_orig": [
+            105.8172607421875,
+            1231.2467041015625,
+            630.8013916015625,
+            2279.274169921875
+          ],
+          "type": "Image",
+          "text": "",
+          "path": "Processed_Articles\\images\\3ab970fd-776d-4105-b710-bda0f8385bf3_a38a8fed15724645ab6993cdc18cf8d6.png"
+        },
+        {
+          "id": "44ee0641-b7d9-49aa-898c-3817f37e9a99",
+          "article_id": "3ab970fd-776d-4105-b710-bda0f8385bf3",
+          "page_index": 3,
+          "bbox_orig": [
+            126.11628723144531,
+            255.28289794921875,
+            602.4254150390625,
+            1227.5914306640625
+          ],
+          "type": "Body",
+          "text": "A RELIABLE and economic method of on-stream analysis for increasing the efficiency of mineral processing is offered by the Australian Mineral Development Laboratories (AMDEL). AMDEL is a contract research organisation providing technical development and consulting services to industry and government in the fields of mineral and material sciences. ‘The on-stream analytical system, using radioisotope immersion probes, has application to heavy metal processing for elements above titanium in the Periodic Table, in larger-scale modern plant. It provides a method of-continuous automatic readout of metal values in process slurry streams, enabling the most efficient operation of mineral processing plant. The highly significant break-through in this new method of analysis has been the Australian development of a range of immersible probes, each housing a detector head assembly, a scintillation counter and a radioisotope source . The probes are designed to measure mineral content and slurry density, with an accuracy practical to the application, using both X-ray fluorescence and X-ray gammaray absorption techniques, while actually immersed in the Process streams. _ The probes aré inexpensive, of rugged construction and easy to install and to replace. Components of the on-stream analytical system are designed and manufactured by AMDEL will research and development support from the Australian Atomic Energy Commission. The Australian Mineral Industry Research Association and the Zinc Corporation. Under the terms of a worldwide agreement, AMDEL carries out the necessary feasibility studies, and designs, manufactures and installs the equipment. The system is sufficiently flexible to allow step-bystep growth from a basic analysis arrangement to one involving fully computerised plant control with feedback from a number of points in the process. Because of this flexibility, the cost of the installation can be effectively controlled to suit the size of the plant. The cost of the equipment, although a half to a third that of competitors, is likely to be about $A113,000 fora typical 3-stream installation. The IOSA immersion probe system has now a proved history of operation for more than five years in Australia and abroad, for copper, lead, zinc, nickel and tin. AMDEL’s services and facilities include: Analytical chemistry, mineralogy, petrology, geochemistry, geochronology, materials technology, ‘operations research, computer services, geostatistics, mine planning, mineral engineering, chemical metallugry, instrumentation, water treatment, process development, feasibility studies, pat design and commissioning. Inquiries: Australian Mineral Development Laboratories, Flemington Street, Frewville, South Australia 5063. eee Sa PEE CSREES NGS Sai ai Ae ale ED"
+        },
+        {
+          "id": "f1bafc7e-e333-404a-9fac-2b768840a44f",
+          "article_id": "3ab970fd-776d-4105-b710-bda0f8385bf3",
+          "page_index": 3,
+          "bbox_orig": [
+            186.81915999999995,
+            191.65068999999994,
+            549.1839099999999,
+            268.9551699999999
+          ],
+          "type": "Title",
+          "text": "RADIOISOTOPE ON STREAM ANALYSIS OF MINERALS"
+        },
+        {
+          "id": "cd56767b-aab7-4342-bbfa-883ca788f70d",
+          "article_id": "3ab970fd-776d-4105-b710-bda0f8385bf3",
+          "page_index": 3,
+          "bbox_orig": [
+            1114.6661811999998,
+            190.77940408999996,
+            1534.8095879599996,
+            297.9588445899999
+          ],
+          "type": "Body",
+          "text": "ASEA’S NEW METHOD TO CONTAIN NUCLEAR WASTE"
+        }
+      ],
+      "manual_modified": true,
+      "images": [
+        {
+          "path": "Processed_Articles\\images\\3ab970fd-776d-4105-b710-bda0f8385bf3_a38a8fed15724645ab6993cdc18cf8d6.png",
+          "bbox": [
+            105.8172607421875,
+            1231.2467041015625,
+            630.8013916015625,
+            2279.274169921875
+          ],
+          "page_index": 3
+        }
+      ]
+    },
+    "fccfee21-57e3-43b4-a11b-f601f632de1f": {
+      "id": "fccfee21-57e3-43b4-a11b-f601f632de1f",
+      "title": "ASEA’S NEW METHOD TO CONTAIN NUCLEAR WASTE",
+      "author": "",
+      "date": "",
+      "issue": "",
+      "bodies": [
+        "ASEA, the Swedish worldwide manufacturer of electrical and mechanical equipment, is working on the development of a process using hot isostatic pressing for the safe containment and storage of nuclear waste. This development work which is being carried out at the Company’s High-Pressure Laboratory at Robertsfors, in the north of Sweden, promises to contain all dangers in the disposal of nuclear waste. Under high pressure the waste is compacted together to form a dense and solid body which is harder than any kind of rock including granite! this process which is called hot isostatic pressing, is already been used in some of ASEA’s products, for instance, the Quintus Presses marketed throughout the world including Singapore. This new method will not only interest countries who are now grappling with the nuclear waste problem, but also others like the Republic who are seriously considering nuclear energy as an alternative power to oil. ASEA has been working in the field of highpressure research since the 1940s and has developed a number of processes and products which have led to important breakthroughts in materials technology."
+      ],
+      "annotations": [
+        {
+          "id": "c9fec285-f74e-4363-a590-f5a36add392e",
+          "article_id": "fccfee21-57e3-43b4-a11b-f601f632de1f",
+          "page_index": 3,
+          "bbox_orig": [
+            1112.5225923899998,
+            190.77940408999996,
+            1534.8095879599996,
+            297.9588445899999
+          ],
+          "type": "Title",
+          "text": "ASEA’S NEW METHOD TO CONTAIN NUCLEAR WASTE"
+        },
+        {
+          "id": "1a7d635e-2e19-466e-a7d6-5610dcece47f",
+          "article_id": "fccfee21-57e3-43b4-a11b-f601f632de1f",
+          "page_index": 3,
+          "bbox_orig": [
+            1054.6456945199998,
+            293.67166696999993,
+            1564.8198312999996,
+            846.7175799499997
+          ],
+          "type": "Body",
+          "text": "__ ASEA, the Swedish worldwide manufacturer of electrical and mechanical equipment, is working on the development of a process using hot isostatic pressing for the safe containment and storage of nuclear waste. This development work which is being carried out at the Company’s High-Pressure Laboratory at Robertsfors, in the north of Sweden, promises to contain all dangers in the disposal of nuclear waste. Under high pressure the waste is compacted together to form a dense and solid body which is harder than any kind of rock including granite! this process which is called hot isostatic pressing, is already been used in some of ASEA’s products, for instance, the Quintus Presses marketed throughout the world including Singapore. This new method will not only interest countries who are now grappling with the nuclear waste problem, but also others like the Republic who are seriously considering nuclear energy as an alternative power to oil. ASEA has been working in the field of highpressure research since the 1940s and has developed a number of processes and products which have led to important breakthroughts in materials technology."
+        },
+        {
+          "id": "8c5b1c65-bc21-431c-8971-674753d2810b",
+          "article_id": "fccfee21-57e3-43b4-a11b-f601f632de1f",
+          "page_index": 3,
+          "bbox_orig": [
+            619.4971660899998,
+            190.77940408999996,
+            1052.5021057099998,
+            816.7073366099997
+          ],
+          "type": "Image",
+          "text": "—— Ae ent me : [he heA) Ty ae fa",
+          "path": "Processed_Articles\\images\\fccfee21-57e3-43b4-a11b-f601f632de1f_5350e107d21a4a3a92a67409fb088e9f.png"
+        }
+      ],
+      "manual_modified": true,
+      "images": [
+        {
+          "path": "Processed_Articles\\images\\fccfee21-57e3-43b4-a11b-f601f632de1f_5350e107d21a4a3a92a67409fb088e9f.png",
+          "bbox": [
+            619.4971660899998,
+            190.77940408999996,
+            1052.5021057099998,
+            816.7073366099997
+          ],
+          "page_index": 3
+        }
+      ]
+    },
+    "f6c91a09-983f-4da8-b4fe-ea3bca49cccd": {
+      "id": "f6c91a09-983f-4da8-b4fe-ea3bca49cccd",
+      "title": "PARTICIPANTS FOR N. Z. INDUSTRIES TRADE EXHIBITION",
+      "author": "",
+      "date": "",
+      "issue": "",
+      "bodies": [
+        "The Canterbury Engineering Company is a participant in the New Zealand Industries Trade Exhibition. The company undertakes general mechanical engineering work, and tends nowadays to specialise in the design and supply of equipment for the electric power industry. The firm’s Christchurch factory provides assembly, fabrication, machine shop, non-ferrous foundry and structural facilities, with access to subcontract services for ferrous castings, forgings, extrusions and ceramics.’ The non-ferrous foundry can cast a wide range of materials, quantities and weights, and the firm has wide experience in the design and supply of castings for clamping and supporting functions. Bolted lattice or fabricated support structures are available in aluminium alloy, or in steel sections with hot-dip galvanised or painted finish. These structures can be designed for many applications, including masts for radio and microwave aerials. Specialist products for the electric power industry range from the comprehensive design and supply of complete outdoor substation installations, down to a full selection of accessories for generation, transmission and",
+        "distribution of power. Another participant in the New Zealand Industries Trade Exhibition will be Consolidated Chemicals Ltd, which has established an international reputation over 20 years for its Epiglass marine products, including glues, fillers, preservatives, paints, antifoulings, varnishes and sheathing systems. ~ ‘The company is also active in the industrial and domestic building fields with specialist adhesives, fillers, sealants and surface coatings. ‘The company’s major growth area has been in marine products, so much so that it is now the largest supplier of marine sheathing systems and coatings for, pleasure boats in New Zealand, and a major supplier in the commercial boating fields. For below the waterline, a comprehensive range of antifoulings is available in various colours and formulations. There are slow-leaching types for commercial boats, hard “E-type” grades for racing yachts or high-speed power craft which give up to 12 months growth-free protection, and copper-free “Barrier.. antifoulings suitable for alloy craft or for owners who want exotic colours.",
+        "distribution of power. Another participant in the New Zealand Industries Trade Exhibition will be Consolidated Chemicals Ltd, which has established an international reputation over 20 years for its Epiglass marine products, including glues, fillers, preservatives, paints, antifoulings, varnishes and sheathing systems. ~ ‘The company is also active in the industrial and domestic building fields with specialist adhesives, fillers, sealants and surface coatings. ‘The company’s major growth area has been in marine products, so much so that it is now the largest supplier of marine sheathing systems and coatings for, pleasure boats in New Zealand, and a major supplier in the commercial boating fields. For below the waterline, a comprehensive range of antifoulings is available in various colours and formulations. There are slow-leaching types for commercial boats, hard “E-type” grades for racing yachts or high-speed power craft which give up to 12 months growth-free protection, and copper-free “Barrier.. antifoulings suitable for alloy craft or for owners who want exotic colours.",
+        "A wide range of products from Weldwell (NZ) Ltd., the largest supplier of arc welding electrodes in New Zealand, will also be on show at the New Zealand Industries Trade Exhibition. The company’s factory at Napier manufactures electrodes under licence from Philips N.V. of the Nether ~ lands, and produces the full range of Philips electrodes, from mild steel and hardfacing to special alloy types. Weldwell also manufactures gas equipment and accessories, gas rods and fluxes, arc accessories and T.1.G. equipment. Welding and cutting torches and attachments are produced under the “STEADYFLAME” brand name. This is relatively new equipment and products incor porate all the latest safety measures and efficiency features required of today’s cutting and welding gear. Regulators for oxygen, acetylene, argon and CO 2 gases are produced under the “STEADYFLO” brand name. These well-established and proven products are marketed widely throughout New Zealand and overseas. The “STEADYFLO” T.I. G. torch is another pro- “duct made by Weldwell. These are available in aircooled or water-cooled mo- dels. Additionally, the company manufactures a wide range of accessories for use in arc, gas, automatic, spot and stud welding. Although Weldwell does not manufacture gas, it was the first New Zealand company to introduce the techniques or low-temperature gas welding and flux coated gas rods. The company is now a leader in the supply of gas rods and fluxes to markets at home and abroad.",
+        "A wide range of products from Weldwell (NZ) Ltd., the largest supplier of arc welding electrodes in New Zealand, will also be on show at the New Zealand Industries Trade Exhibition. The company’s factory at Napier manufactures electrodes under licence from Philips N.V. of the Nether ~ lands, and produces the full range of Philips electrodes, from mild steel and hardfacing to special alloy types. Weldwell also manufactures gas equipment and accessories, gas rods and fluxes, arc accessories and T.1.G. equipment. Welding and cutting torches and attachments are produced under the “STEADYFLAME” brand name. This is relatively new equipment and products incor porate all the latest safety measures and efficiency features required of today’s cutting and welding gear. Regulators for oxygen, acetylene, argon and CO 2 gases are produced under the “STEADYFLO” brand name. These well-established and proven products are marketed widely throughout New Zealand and overseas. The “STEADYFLO” T.I. G. torch is another pro- “duct made by Weldwell. These are available in aircooled or water-cooled mo- dels. Additionally, the company manufactures a wide range of accessories for use in arc, gas, automatic, spot and stud welding. Although Weldwell does not manufacture gas, it was the first New Zealand company to introduce the techniques or low-temperature gas welding and flux coated gas rods. The company is now a leader in the supply of gas rods and fluxes to markets at home and abroad."
+      ],
+      "annotations": [
+        {
+          "id": "9a3f3353-7c89-425b-a2b9-d7f641089d20",
+          "article_id": "f6c91a09-983f-4da8-b4fe-ea3bca49cccd",
+          "page_index": 4,
+          "bbox_orig": [
+            645.0253600999997,
+            167.58967059999992,
+            1346.5635160999993,
+            222.1537493999999
+          ],
+          "type": "Title",
+          "text": "PARTICIPANTS FOR N. Z. INDUSTRIES TRADE EXHIBITION"
+        },
+        {
+          "id": "582dbf8f-4613-4654-a12e-c3c90ab86674",
+          "article_id": "f6c91a09-983f-4da8-b4fe-ea3bca49cccd",
+          "page_index": 4,
+          "bbox_orig": [
+            526.1536169999997,
+            220.20503229999989,
+            995.7944380999995,
+            754.1535176999996
+          ],
+          "type": "Body",
+          "text": "The Canterbury Engineering Company is a participant in the New Zealand Industries Trade Exhibition. The company undertakes general mechanical engineering work, and tends nowadays to specialise in the design and supply of equipment for the electric power industry. The firm’s Christchurch factory provides assembly, fabrication, machine shop, non-ferrous foundry and structural facilities, with access to subcontract services for ferrous castings, forgings, extrusions and ceramics.’ The non-ferrous foundry can cast a wide range of materials, quantities and weights, and the firm has wide experience in the design and supply of castings for clamping and supporting functions. Bolted lattice or fabricated support structures are available in aluminium alloy, or in steel sections with hot-dip galvanised or painted finish. These structures can be designed for many applications, including masts for radio and microwave aerials. Specialist products for the electric power industry range from the comprehensive design and supply of complete outdoor substation installations, down to a full selection of accessories for generation, transmission and"
+        },
+        {
+          "id": "9663fb43-026f-4d2f-9f36-a1880e490492",
+          "article_id": "f6c91a09-983f-4da8-b4fe-ea3bca49cccd",
+          "page_index": 4,
+          "bbox_orig": [
+            1001.6405893999995,
+            222.1537493999999,
+            1492.7172985999994,
+            750.2560834999996
+          ],
+          "type": "Body",
+          "text": "distribution of power. Another participant in the New Zealand Industries Trade Exhibition will be Consolidated Chemicals Ltd, which has established an international reputation over 20 years for its Epiglass marine products, including glues, fillers, preservatives, paints, antifoulings, varnishes and sheathing systems. ~ ‘The company is also active in the industrial and domestic building fields with specialist adhesives, fillers, sealants and surface coatings. ‘The company’s major growth area has been in marine products, so much so that it is now the largest supplier of marine sheathing systems and coatings for, pleasure boats in New Zealand, and a major supplier in the commercial boating fields. For below the waterline, a comprehensive range of antifoulings is available in various colours and formulations. There are slow-leaching types for commercial boats, hard “E-type” grades for racing yachts or high-speed power craft which give up to 12 months growth-free protection, and copper-free “Barrier.. antifoulings suitable for alloy craft or for owners who want exotic colours."
+        },
+        {
+          "id": "11e233af-1fc9-4fe2-9f2a-4b90ed6ff234",
+          "article_id": "f6c91a09-983f-4da8-b4fe-ea3bca49cccd",
+          "page_index": 4,
+          "bbox_orig": [
+            1242.8176371815152,
+            762.6380955432026,
+            1518.9993343329631,
+            2250.2531461089557
+          ],
+          "type": "Body",
+          "text": "A wide range of products from Weldwell (NZ) Ltd., the largest supplier of arc welding electrodes in New Zealand, will also be on show at the New Zealand Industries Trade Exhibition. The company’s factory at Napier manufactures electrodes under licence from Philips N.V. of the Nether ~ lands, and produces the full range of Philips electrodes, from mild steel and hardfacing to special alloy types. Weldwell also manufactures gas equipment and accessories, gas rods and fluxes, arc accessories and T.1.G. equipment. Welding and cutting torches and attachments are produced under the “STEADYFLAME” brand name. This is relatively new equipment and products incor porate all the latest safety measures and efficiency features required of today’s cutting and welding gear. Regulators for oxygen, acetylene, argon and CO 2 gases are produced under the “STEADYFLO” brand name. These well-established and proven products are marketed widely throughout New Zealand and overseas. The “STEADYFLO” T.I. G. torch is another pro- “duct made by Weldwell. These are available in aircooled or water-cooled mo- dels. Additionally, the company manufactures a wide range of accessories for use in arc, gas, automatic, spot and stud welding. Although Weldwell does not manufacture gas, it was the first New Zealand company to introduce the techniques or low-temperature gas welding and flux coated gas rods. The company is now a leader in the supply of gas rods and fluxes to markets at home and abroad."
+        }
+      ],
+      "manual_modified": true
+    },
+    "e00e9a94-d2b7-49f0-a5c6-3a1c9cb4ffcc": {
+      "id": "e00e9a94-d2b7-49f0-a5c6-3a1c9cb4ffcc",
+      "title": "THE NMEA AWARDS",
+      "author": "",
+      "date": "",
+      "issue": "",
+      "bodies": [
+        "At the National Marine Electronics Association Annual Meeting at Baha Mar Hotel in Fort Lauderdale in February, the NMEA awards for performance & reliability in marine electronics equipment were presented to nine manufacturers. Modar received two awards for SSB & VHFEM. The indicating depth award was given to Datamarine while Simrad received the Loran C award. Sitex/Kelvin Hughes was presented with the small depth recorder award. The two companies tied in the radar category received the radar awards were ITT Decca & Konel/Furono, Konel/Furono also received award for large depth recorder. The large autopilot award went to Metal Marine while the small autopilot award was presented to Benmar. Lastly the Loran A award was won by Morrow Electronics.",
+        "At the National Marine Electronics Association Annual Meeting at Baha Mar Hotel in Fort Lauderdale in February, the NMEA awards for performance & reliability in marine electronics equipment were presented to nine manufacturers. Modar received two awards for SSB & VHFEM. The indicating depth award was given to Datamarine while Simrad received the Loran C award. Sitex/Kelvin Hughes was presented with the small depth recorder award. The two companies tied in the radar category received the radar awards were ITT Decca & Konel/Furono, Konel/Furono also received award for large depth recorder. The large autopilot award went to Metal Marine while the small autopilot award was presented to Benmar. Lastly the Loran A award was won by Morrow Electronics."
+      ],
+      "annotations": [
+        {
+          "id": "b895ca7a-043f-4214-afcb-d83fb9901f60",
+          "article_id": "e00e9a94-d2b7-49f0-a5c6-3a1c9cb4ffcc",
+          "page_index": 4,
+          "bbox_orig": [
+            146.28099173553693,
+            180.165289256198,
+            416.52892561983396,
+            228.92561983471032
+          ],
+          "type": "Title",
+          "text": "THE NMEA AWARDS"
+        },
+        {
+          "id": "b81148eb-1ade-4a1f-9d1e-0ccf21b21b64",
+          "article_id": "e00e9a94-d2b7-49f0-a5c6-3a1c9cb4ffcc",
+          "page_index": 4,
+          "bbox_orig": [
+            55.65999999999992,
+            221.42999999999967,
+            517.8799999999992,
+            736.8899999999988
+          ],
+          "type": "Body",
+          "text": "At the National Marine Electronics Association Annual Meeting at Baha Mar Hotel in Fort Lauderdale in February, the NMEA awards for performance & reliability in marine electronics equipment were presented to nine manufacturers. Modar received two awards for SSB & VHFEM. The indicating depth award was given to Datamarine while Simrad received the Loran C award. Sitex/Kelvin Hughes was presented with the small depth recorder award. The two companies tied in the radar category received the radar awards were ITT Decca & Konel/Furono, Konel/Furono also received award for large depth recorder. The large autopilot award went to Metal Marine while the small autopilot award was presented to Benmar. Lastly the Loran A award was won by Morrow Electronics."
+        }
+      ],
+      "manual_modified": true
+    },
+    "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029": {
+      "id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+      "title": "The Chin Huat Saga",
+      "author": "",
+      "date": "",
+      "issue": "",
+      "bodies": [
+        "Soe Serres San we Seeeeeeee ae Se ee ee ee Jurong and the other is in Kallang to serve the eastern part. A few of their boats are doing service in Malaysian waters, particularly in Johore which is at the southern tip of Peninsula Malaysia. Apart from this the rest of the company’s boats are serving in waters as far away as Sabah, Sarawak, Brunei, Indonesia, Thailand, Philippines and Burma. The last of the conglomerate, Corporate Marine Private Limited, concentrates mainly on the building of ships of up to about 1200 tons, barges and tug boats. It builds these vessels both for the organisation’s own use and for sale. Corporate also undertakes to build coastal vessels to the specifications of the client. These coastal vessels can be cargo carriers, oil carriers, passenger launches and all forms of ferries. It is capable of preparing blue prints for a vessel as it has a naval architect on contract. The company has two shipyards. One in Jurong and the other in Ponggol.",
+        "Chinese business acumen, industry and sheer will to succeed are the elements behind the impressive progress of Chin Huat Shipping in Jalan Benaan Kapal in Singapore. The firm was started by Mr Koh Chaw Siew some eight years ago. He had vast knowledge of shipbuilding and this he put to use to form the parent ship building company. Now the firm has grown into a conglomorate of Chin Huat Shipping, Marcom Marine Services and Corporate Marine Pte Limited. What started out as a family business in shipbuilding is beginning to diversify into many sectors of the shipping industry. Each company within the organisation has more or less very specific functions. Chin Huat, for example, has begun to specialise in ship repairing. It maintains two slipways capable of taking in vessels of up to 1200 tons, 160 ft long and 50 ft wide. Both the slipways are never empty. Their workmanship is in great demand. At the moment most of the repair work is being done on barges and",
+        "Ce ae ee a ee os er ee 2 Chin Huat also carry out floating repairs. This they do through absolute necessity due to the congestion in the Kallang river where their slipways are located. To facilitate floating repairs are the company maintains well stocked boats and experienced technicians. Despite this inconvenience their charges are very competitive. The company’s operations are not limited to Singapore only. It does carry out work in neighbouring countries as well. Infact, it 1s sufficiently equipped to repair a ship in any waters. It has done work in Malaysia and in Indonesia. The company has earned a good reputation for being prompt with work. Marcom specialises in towing services in the Singapore harbour. It reputedly has the largest single fleet of harbour tugs. These tugs are on 24 hour call and can reach anywork site in Singapore waters within three hours of call. Its towing services not only work 24 hours a day but also through holidays. Each tow-boat is equipped with its own independent communication system monitored through a control centre. This makes it easier and faster for deployment of boats and work to start.",
+        "A brand new tow boat for Marcom almost completed and another under construction at ‘ne of Corporate’s shipyards. Most of the trade, as regards sales of vessels, is being done mainly in Sabah and Sarawak (East Malaysia), the Middle East and Indonesia. Barges, especially, are built, launched, loaded and towed to countries and sold there. These barges are towed by hired vessels. Depo cror trys Sat A eR a ETP ERR ars meena: |",
+        "One of Corporate § barges being taunched into the hatlang River. The most spectacular work the organisation does is to launch oil rigs. This is undertaken by Marcom. It has launched the largest number in Singapore. Infact the organisation as a whole pioneered ers| _ the oil rig launching industry."
+      ],
+      "annotations": [
+        {
+          "id": "220ca890-0979-4cab-ab1a-7d4da520935b",
+          "article_id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+          "page_index": 5,
+          "bbox_orig": [
+            860.3446655273438,
+            169.68882751464844,
+            1563.212158203125,
+            658.9751586914062
+          ],
+          "type": "Body",
+          "text": "Soe Serres San we Seeeeeeee ae Se ee ee ee Jurong and the other is in Kallang to serve the eastern part. A few of their boats are doing service in Malaysian waters, particularly in Johore which is at the southern tip of Peninsula Malaysia. Apart from this the rest of the company’s boats are serving in waters as far away as Sabah, Sarawak, Brunei, Indonesia, Thailand, Philippines and Burma. The last of the conglomerate, Corporate Marine Private Limited, concentrates mainly on the building of ships of up to about 1200 tons, barges and tug boats. It builds these vessels both for the organisation’s own use and for sale. Corporate also undertakes to build coastal vessels to the specifications of the client. These coastal vessels can be cargo carriers, oil carriers, passenger launches and all forms of ferries. It is capable of preparing blue prints for a vessel as it has a naval architect on contract. The company has two shipyards. One in Jurong and the other in Ponggol."
+        },
+        {
+          "id": "57967a00-f588-4f8b-97b3-b3b9d0b6e5ff",
+          "article_id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+          "page_index": 5,
+          "bbox_orig": [
+            145.4278564453125,
+            275.79107666015625,
+            842.6528930664062,
+            718.7083129882812
+          ],
+          "type": "Body",
+          "text": "Chinese business acumen, industry and sheer will to succeed are the elements behind the impressive progress of Chin Huat Shipping in Jalan Benaan Kapal in Singapore. The firm was started by Mr Koh Chaw Siew some eight years ago. He had vast knowledge of shipbuilding and this he put to use to form the parent ship building company. Now the firm has grown into a conglomorate of Chin Huat Shipping, Marcom Marine Services and Corporate Marine Pte Limited. What started out as a family business in shipbuilding is beginning to diversify into many sectors of the shipping industry. Each company within the organisation has more or less very specific functions. Chin Huat, for example, has begun to specialise in ship repairing. It maintains two slipways capable of taking in vessels of up to 1200 tons, 160 ft long and 50 ft wide. Both the slipways are never empty. Their workmanship is in great demand. At the moment most of the repair work is being done on barges and"
+        },
+        {
+          "id": "c048018e-6d3a-48b8-a170-888834e3e226",
+          "article_id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+          "page_index": 5,
+          "bbox_orig": [
+            855.6829223632812,
+            648.346923828125,
+            1551.85791015625,
+            1533.22412109375
+          ],
+          "type": "Image",
+          "text": "",
+          "path": "Processed_Articles\\images\\81b2d5e5-4cd2-4b94-bc38-e5052fe6d029_946042256fe34a6cbbafb9033ac3f185.png"
+        },
+        {
+          "id": "eae101fe-f3ab-4fe5-a4a0-3e12a838e998",
+          "article_id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+          "page_index": 5,
+          "bbox_orig": [
+            860.5226440429688,
+            651.5065307617188,
+            1552.5283203125,
+            1189.3111572265625
+          ],
+          "type": "Image",
+          "text": "",
+          "path": "Processed_Articles\\images\\81b2d5e5-4cd2-4b94-bc38-e5052fe6d029_ae5e3f4829df46eba9b814c497700e6b.png"
+        },
+        {
+          "id": "e53cacfb-08c6-4135-8719-627eaaca7c2b",
+          "article_id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+          "page_index": 5,
+          "bbox_orig": [
+            148.80392456054688,
+            737.5576171875,
+            836.9102172851562,
+            1250.468505859375
+          ],
+          "type": "Image",
+          "text": "",
+          "path": "Processed_Articles\\images\\81b2d5e5-4cd2-4b94-bc38-e5052fe6d029_676d571a5b3f4a968a80b8f78bd9d2e0.png"
+        },
+        {
+          "id": "db4e3e53-20c6-4e34-8cbc-6d3ae28d9838",
+          "article_id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+          "page_index": 5,
+          "bbox_orig": [
+            861.5567626953125,
+            1187.429931640625,
+            1555.55859375,
+            1517.705078125
+          ],
+          "type": "Image",
+          "text": "",
+          "path": "Processed_Articles\\images\\81b2d5e5-4cd2-4b94-bc38-e5052fe6d029_9ed3fbee4fa5459088918280f773e36f.png"
+        },
+        {
+          "id": "f387c803-aae9-4dad-8e7a-71134955b73b",
+          "article_id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+          "page_index": 5,
+          "bbox_orig": [
+            145.73727416992188,
+            1240.71142578125,
+            844.8297119140625,
+            1751.2177734375
+          ],
+          "type": "Body",
+          "text": "Ce ae ee a ee os er ee 2 Chin Huat also carry out floating repairs. This they do through absolute necessity due to the congestion in the Kallang river where their slipways are located. To facilitate floating repairs are the company maintains well stocked boats and experienced technicians. Despite this inconvenience their charges are very competitive. The company’s operations are not limited to Singapore only. It does carry out work in neighbouring countries as well. Infact, it 1s sufficiently equipped to repair a ship in any waters. It has done work in Malaysia and in Indonesia. The company has earned a good reputation for being prompt with work. Marcom specialises in towing services in the Singapore harbour. It reputedly has the largest single fleet of harbour tugs. These tugs are on 24 hour call and can reach anywork site in Singapore waters within three hours of call. Its towing services not only work 24 hours a day but also through holidays. Each tow-boat is equipped with its own independent communication system monitored through a control centre. This makes it easier and faster for deployment of boats and work to start."
+        },
+        {
+          "id": "d89a222a-ec3e-4bed-955d-d5deabb7aaa3",
+          "article_id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+          "page_index": 5,
+          "bbox_orig": [
+            847.48486328125,
+            1512.076904296875,
+            1574.1064453125,
+            1709.6842041015625
+          ],
+          "type": "Body",
+          "text": "A brand new tow boat for Marcom almost completed and another under construction at ‘ne of Corporate’s shipyards. Most of the trade, as regards sales of vessels, is being done mainly in Sabah and Sarawak (East Malaysia), the Middle East and Indonesia. Barges, especially, are built, launched, loaded and towed to countries and sold there. These barges are towed by hired vessels. Depo cror trys Sat A eR a ETP ERR ars meena: |"
+        },
+        {
+          "id": "65156167-fa94-404b-bdb1-edff9476a710",
+          "article_id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+          "page_index": 5,
+          "bbox_orig": [
+            865.0264892578125,
+            1693.916748046875,
+            1562.65087890625,
+            2093.781982421875
+          ],
+          "type": "Image",
+          "text": "",
+          "path": "Processed_Articles\\images\\81b2d5e5-4cd2-4b94-bc38-e5052fe6d029_29438090c23c46839fca6f21924f1c89.png"
+        },
+        {
+          "id": "6a367ce1-b64e-43f8-9ba6-c881e134cc53",
+          "article_id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+          "page_index": 5,
+          "bbox_orig": [
+            160.02745056152344,
+            1747.8902587890625,
+            818.3740844726562,
+            2218.998291015625
+          ],
+          "type": "Image",
+          "text": "",
+          "path": "Processed_Articles\\images\\81b2d5e5-4cd2-4b94-bc38-e5052fe6d029_a52dd96e713549a482f22fd42d6a5a9f.png"
+        },
+        {
+          "id": "51276ed9-39d8-408d-b2de-b24154a79c4a",
+          "article_id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+          "page_index": 5,
+          "bbox_orig": [
+            811.8782958984375,
+            2084.021240234375,
+            1583.08203125,
+            2260.84130859375
+          ],
+          "type": "Body",
+          "text": "One of Corporate § barges being taunched into the hatlang River. The most spectacular work the organisation does is to launch oil rigs. This is undertaken by Marcom. It has launched the largest number in Singapore. Infact the organisation as a whole pioneered ers| _ the oil rig launching industry."
+        },
+        {
+          "id": "b67d1fb3-76cc-4938-85e1-1fbeb249a3ba",
+          "article_id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+          "page_index": 5,
+          "bbox_orig": [
+            140.0,
+            155.0,
+            845.0,
+            265.0
+          ],
+          "type": "Title",
+          "text": "The Chin Huat Saga"
+        }
+      ],
+      "manual_modified": true,
+      "images": [
+        {
+          "path": "Processed_Articles\\images\\81b2d5e5-4cd2-4b94-bc38-e5052fe6d029_946042256fe34a6cbbafb9033ac3f185.png",
+          "bbox": [
+            855.6829223632812,
+            648.346923828125,
+            1551.85791015625,
+            1533.22412109375
+          ],
+          "page_index": 5
+        },
+        {
+          "path": "Processed_Articles\\images\\81b2d5e5-4cd2-4b94-bc38-e5052fe6d029_ae5e3f4829df46eba9b814c497700e6b.png",
+          "bbox": [
+            860.5226440429688,
+            651.5065307617188,
+            1552.5283203125,
+            1189.3111572265625
+          ],
+          "page_index": 5
+        },
+        {
+          "path": "Processed_Articles\\images\\81b2d5e5-4cd2-4b94-bc38-e5052fe6d029_676d571a5b3f4a968a80b8f78bd9d2e0.png",
+          "bbox": [
+            148.80392456054688,
+            737.5576171875,
+            836.9102172851562,
+            1250.468505859375
+          ],
+          "page_index": 5
+        },
+        {
+          "path": "Processed_Articles\\images\\81b2d5e5-4cd2-4b94-bc38-e5052fe6d029_9ed3fbee4fa5459088918280f773e36f.png",
+          "bbox": [
+            861.5567626953125,
+            1187.429931640625,
+            1555.55859375,
+            1517.705078125
+          ],
+          "page_index": 5
+        },
+        {
+          "path": "Processed_Articles\\images\\81b2d5e5-4cd2-4b94-bc38-e5052fe6d029_29438090c23c46839fca6f21924f1c89.png",
+          "bbox": [
+            865.0264892578125,
+            1693.916748046875,
+            1562.65087890625,
+            2093.781982421875
+          ],
+          "page_index": 5
+        },
+        {
+          "path": "Processed_Articles\\images\\81b2d5e5-4cd2-4b94-bc38-e5052fe6d029_a52dd96e713549a482f22fd42d6a5a9f.png",
+          "bbox": [
+            160.02745056152344,
+            1747.8902587890625,
+            818.3740844726562,
+            2218.998291015625
+          ],
+          "page_index": 5
+        }
+      ]
+    },
+    "898ef494-09ab-4c66-b293-66543b7bed43": {
+      "id": "898ef494-09ab-4c66-b293-66543b7bed43",
+      "title": "TECHNOLOGY AND WELDING EQUIPMENT FOR SHIPBUILDING INDUSTRY",
+      "author": "",
+      "date": "",
+      "issue": "",
+      "bodies": [],
+      "annotations": [
+        {
+          "id": "d2959ab4-5703-4da6-82e7-52f642c8c84a",
+          "article_id": "898ef494-09ab-4c66-b293-66543b7bed43",
+          "page_index": 7,
+          "bbox_orig": [
+            645.0,
+            180.0,
+            1405.0,
+            420.0
+          ],
+          "type": "Title",
+          "text": "TECHNOLOGY AND WELDING EQUIPMENT FOR SHIPBUILDING INDUSTRY"
+        }
+      ],
+      "manual_modified": true
+    },
+    "9b108d02-6535-4aa1-94cc-ad21e292cdc6": {
+      "id": "9b108d02-6535-4aa1-94cc-ad21e292cdc6",
+      "title": "BARBER BLUE SEA — NEW VESSELS",
+      "author": "",
+      "date": "",
+      "issue": "",
+      "bodies": [
+        "Barber Blue Sea (BBS) is planning to introduce new vessels on their Far East - USA — Far East routes in 1977. In an announcement Kaare B Isaksen, Senior Vice President of BBS, said: “M S ‘TSU’ now enroute from Japan to Panama on her maiden voyage is due Miami on June 14. This is the first of ten new Combo Class vessels being built for BBS to replace some of our present fleet and we expect all ten vessels to be in operation by the end of 1977. ~ The ten new Combo Class vessels will supplement similar type of vessels already operating successfully in the BBS Service to Panama, East Coast USA and East Canada. Mr Isaksen continued, “We offer four sailings per month on fixed dates from the Far East to US/ Canadian Atlantic Ports and in keeping with our philisophy of catering to all transportation modes, the vessels will be able to accommodate unitised general cargo, containers, heavy lifts, rolling stock, refrigerated cargoes and bulk liquids in specially built deeptanks. The new vessels will provide improved loading capacities to all customers including 550/600 TEU’s per sailing and as they are self sustaining, they can call at ports which do not have container cranes. We will, generally speaking, continue to serve ports on a direct basis which we believe is what the customer requires”. The areas covered by BBS are Singapore, Malaysia, Indonesia, Thailand, Philippines, HongKong, Taiwan, Korea, Japan, East and West Canada, US East, West and Gulf Coasts, Panama and Venezuela."
+      ],
+      "annotations": [
+        {
+          "id": "bd313a9d-f07d-47cf-925a-90128783e9e3",
+          "article_id": "9b108d02-6535-4aa1-94cc-ad21e292cdc6",
+          "page_index": 9,
+          "bbox_orig": [
+            266.91278076171875,
+            883.3734130859375,
+            541.6473388671875,
+            962.0865478515625
+          ],
+          "type": "Title",
+          "text": "BARBER BLUE SEA — NEW VESSELS"
+        },
+        {
+          "id": "c81acac8-385b-4851-b59d-5957c61d90f1",
+          "article_id": "9b108d02-6535-4aa1-94cc-ad21e292cdc6",
+          "page_index": 9,
+          "bbox_orig": [
+            623.0708618164062,
+            929.8695678710938,
+            1550.72412109375,
+            2307.563232421875
+          ],
+          "type": "Image",
+          "text": "",
+          "path": "Processed_Articles\\images\\9b108d02-6535-4aa1-94cc-ad21e292cdc6_a1ff16c9e3c5474184e2e98a47c3d339.png"
+        },
+        {
+          "id": "3dd0d510-4059-459f-95b7-2b0ff391fd87",
+          "article_id": "9b108d02-6535-4aa1-94cc-ad21e292cdc6",
+          "page_index": 9,
+          "bbox_orig": [
+            141.3753204345703,
+            971.3040771484375,
+            628.4940795898438,
+            1765.135009765625
+          ],
+          "type": "Body",
+          "text": "Barber Blue Sea (BBS) is planning to introduce new vessels on their Far East - USA — Far East routes in 1977. In an announcement Kaare B Isaksen, Senior Vice President of BBS, said: “M S ‘TSU’ now enroute from Japan to Panama on her maiden voyage is due Miami on June 14. This is the first of ten new Combo Class vessels being built for BBS to replace some of our present fleet and we expect all ten vessels to be in operation by the end of 1977. ~ The ten new Combo Class vessels will supplement similar type of vessels already operating successfully in the BBS Service to Panama, East Coast USA and East Canada. Mr Isaksen continued, “We offer four sailings per month on fixed dates from the Far East to US/ Canadian Atlantic Ports and in keeping with our philisophy of catering to all transportation modes, the vessels will be able to accommodate unitised general cargo, containers, heavy lifts, rolling stock, refrigerated cargoes and bulk liquids in specially built deeptanks. The new vessels will provide improved loading capacities to all customers including 550/600 TEU’s per sailing and as they are self sustaining, they can call at ports which do not have container cranes. We will, generally speaking, continue to serve ports on a direct basis which we believe is what the customer requires”. The areas covered by BBS are Singapore, Malaysia, Indonesia, Thailand, Philippines, HongKong, Taiwan, Korea, Japan, East and West Canada, US East, West and Gulf Coasts, Panama and Venezuela."
+        },
+        {
+          "id": "2226cd1f-559a-4185-aea0-1a96d3dd7807",
+          "article_id": "9b108d02-6535-4aa1-94cc-ad21e292cdc6",
+          "page_index": 9,
+          "bbox_orig": [
+            146.28067016601562,
+            1898.266357421875,
+            630.8570556640625,
+            2257.28369140625
+          ],
+          "type": "Body",
+          "text": "A new container service to Jeddah and Aqaba in the Red Sea started from Tilbury in the Port of London Authority on July 2. The service, which is being run by P & O Strath services, will mean sailings to that part of West Asia from Tilbury every 18 days. Vessels will each be capable of carrying 310 containers. This service is a follow-up of the Arabian Peninsular Container Line Service started recently by P & OStrath-Ellerman jointly with the United Arab Shipping Company. This has sailings every 11 days from Tilbury, and alternatively Liverpool, to Dubai, Muscat, Bahrain and Kuwait."
+        }
+      ],
+      "manual_modified": true,
+      "images": [
+        {
+          "path": "Processed_Articles\\images\\9b108d02-6535-4aa1-94cc-ad21e292cdc6_a1ff16c9e3c5474184e2e98a47c3d339.png",
+          "bbox": [
+            623.0708618164062,
+            929.8695678710938,
+            1550.72412109375,
+            2307.563232421875
+          ],
+          "page_index": 9
+        }
+      ]
+    },
+    "3c38ff7e-0b1b-4e5d-a9df-db455cf1bed0": {
+      "id": "3c38ff7e-0b1b-4e5d-a9df-db455cf1bed0",
+      "title": "NEW CONTAINER SERVICE TO SAUDI ARABIA",
+      "author": "",
+      "date": "",
+      "issue": "",
+      "bodies": [
+        "A new container service to Jeddah and Aqaba in the Red Sea started from Tilbury in the Port of London Authority on July 2. The service, which is being run by P & O Strath services, will mean sailings to that part of West Asia from Tilbury every 18 days. Vessels will each be capable of carrying 310 containers. This service is a follow-up of the Arabian Peninsular Container Line Service started recently by P & OStrath-Ellerman jointly with the United Arab Shipping Company. This has sailings every 11 days from Tilbury, and alternatively Liverpool, to Dubai, Muscat, Bahrain and Kuwait.",
+        "A new container service to Jeddah and Aqaba in the Red Sea started from Tilbury in the Port of London Authority on July 2. The service, which is being run by P & O Strath services, will mean sailings to that part of West Asia from Tilbury every 18 days. Vessels will each be capable of carrying 310 containers. This service is a follow-up of the Arabian Peninsular Container Line Service started recently by P & OStrath-Ellerman jointly with the United Arab Shipping Company. This has sailings every 11 days from Tilbury, and alternatively Liverpool, to Dubai, Muscat, Bahrain and Kuwait."
+      ],
+      "annotations": [
+        {
+          "id": "8ad926fc-c69b-4763-b90b-c99e358e6f93",
+          "article_id": "3c38ff7e-0b1b-4e5d-a9df-db455cf1bed0",
+          "page_index": 9,
+          "bbox_orig": [
+            177.58349839491834,
+            1813.400723994262,
+            594.2217061676114,
+            1891.9472713612454
+          ],
+          "type": "Title",
+          "text": "NEW CONTAINER SERVICE TO SAUDI ARABIA"
+        },
+        {
+          "id": "d9060641-50a2-4ab9-a8e4-1069953216ad",
+          "article_id": "3c38ff7e-0b1b-4e5d-a9df-db455cf1bed0",
+          "page_index": 9,
+          "bbox_orig": [
+            140.01775834983945,
+            1895.3623386380707,
+            631.7874462126903,
+            2274.434806365685
+          ],
+          "type": "Body",
+          "text": "A new container service to Jeddah and Aqaba in the Red Sea started from Tilbury in the Port of London Authority on July 2. The service, which is being run by P & O Strath services, will mean sailings to that part of West Asia from Tilbury every 18 days. Vessels will each be capable of carrying 310 containers. This service is a follow-up of the Arabian Peninsular Container Line Service started recently by P & OStrath-Ellerman jointly with the United Arab Shipping Company. This has sailings every 11 days from Tilbury, and alternatively Liverpool, to Dubai, Muscat, Bahrain and Kuwait."
+        }
+      ],
+      "manual_modified": true
+    },
+    "d29971c3-2176-4522-a57f-3d37f8d46dd3": {
+      "id": "d29971c3-2176-4522-a57f-3d37f8d46dd3",
+      "title": "The LASH Leaders",
+      "author": "",
+      "date": "",
+      "issue": "",
+      "bodies": [
+        "The LASH Leaders",
+        "The world’s first LASH (Lighter Aboard Ship) operator today operates the world’s largest LASH fleet. Central Gulf Lines pioneered LASH operations, beginning in 1969 with the the world’s first LASH vessel, M/V ACADIA FOREST, and adding a sister ship, M/V ATLANTIC FOREST, in 1970. Both of these 860-foot-long, 46, 500-ton, 83 LASH barge-capacity vessels serve U.S. Gulf ports, UK/North Europe and the Middle East. The. company’s LASH system demonstrated cargo shipper and operational advantages both for areas that contain back-up inland river systems, as well as for major and developing port areas that are not connected to such inland systems. Initial operating experience proved the soundness and versatility of LASH as an effective transportation system, and Central Gulf proceeded with a $120 million fleet expansion program that encompassed",
+        "The world’s first LASH (Lighter Aboard Ship) operator today operates the world’s largest LASH fleet. Central Gulf Lines pioneered LASH operations, beginning in 1969 with the the world’s first LASH vessel, M/V ACADIA FOREST, and adding a sister ship, M/V ATLANTIC FOREST, in 1970. Both of these 860-foot-long, 46, 500-ton, 83 LASH barge-capacity vessels serve U.S. Gulf ports, UK/North Europe and the Middle East. The. company’s LASH system demonstrated cargo shipper and operational advantages both for areas that contain back-up inland river systems, as well as for major and developing port areas that are not connected to such inland systems. Initial operating experience proved the soundness and versatility of LASH as an effective transportation system, and Central Gulf proceeded with a $120 million fleet expansion program that encompassed",
+        "the building of three LASH vessels and more than 600 LASH barges. These new LASH vessels, S.S. GREEN VALLEY, GREEN HARBOUR and GREEN ISLAND inaugurated in late 1974 the first LASH service to Singapore, Indonesia, Malaysia and other South East Asian points, serving U.S. Gulf and East coast ports outbound and inbound. Sailings every 25 days were established, resulting in positive acceptance by exporters and importers. Largest cargoliners of their type, the vessels carry 89 LASH barges, are 893 feet long, have a service speed of 22 knots and a deadweight of 46,039 tons. Central Gulf’s world-leading LASH barge fleet now numbers 1,430 units. In addition, the company has developed and operates four float-on/ float-off barge feeder vessels called FLASH. The FLASH carriers are shallow-draft vessels that carry from eight to 15 LASH barges to and from",
+        "the building of three LASH vessels and more than 600 LASH barges. These new LASH vessels, S.S. GREEN VALLEY, GREEN HARBOUR and GREEN ISLAND inaugurated in late 1974 the first LASH service to Singapore, Indonesia, Malaysia and other South East Asian points, serving U.S. Gulf and East coast ports outbound and inbound. Sailings every 25 days were established, resulting in positive acceptance by exporters and importers. Largest cargoliners of their type, the vessels carry 89 LASH barges, are 893 feet long, have a service speed of 22 knots and a deadweight of 46,039 tons. Central Gulf’s world-leading LASH barge fleet now numbers 1,430 units. In addition, the company has developed and operates four float-on/ float-off barge feeder vessels called FLASH. The FLASH carriers are shallow-draft vessels that carry from eight to 15 LASH barges to and from",
+        "ports that cannot accommodate oceangoing liners and that were formerly served only by indirect means involving numerous transhipments of cargo. The FLASH vessels are towed by seagoing towboats between the LASH ocean carrier that calls major ports and the many outlying ports that Central Gulf serves. Central Gulf re-entered the Middle East trade in the fall of 1975, offering LASH service regularly from U.S. Gulf and East coast ports to ports in the Red Sea and Arabian-Persian Gulf. Today, Central Gulf operates seven LASH vessels on regularlyscheduled sailings to the Middle East, while continuing to maintain its established service commitments to the United Kingdom, Europe and South East Asia. Expanding its Middle East service to provide shippers with additional advanced shipping methods, Central Gulf in June of 1976 began operating the new roll-on/roll-off (RO/RO) vessel S.S. Arizona from U.S. Gulf and East coast ports direct to the Saudi Arabian ports of Jeddah and Dammam. The 19,543-ton Arizona is one of the fastest (23 knots) and most advanced ships of its type in the world Central Gulf in 1971 became an affiliate of Trans Union Corporation, a multi-division company headquartered in Chicago and active in the fields of transportation, manufacturing, real estate leasing, and water and waste treatment. Central Gulf heads up the corporation’s Ocean Shipping Group. The affiliation with Trans Union has enabled Central Gulf Lines to proceed with plans for continued growth and expansion of its fleet, while providing for continuation and broadening of comprehensive transportation services for firms engaged in foreign trade. Entering its fourth decade of service, Central Gulf Lines is the world’s largest LASH operator and one of the United States’ leading vessel owners and operators. The agents in Singapore for Central Gulf Lines, Inc., are Orient Lloyd Sdn. Bhd.",
+        "ports that cannot accommodate oceangoing liners and that were formerly served only by indirect means involving numerous transhipments of cargo. The FLASH vessels are towed by seagoing towboats between the LASH ocean carrier that calls major ports and the many outlying ports that Central Gulf serves. Central Gulf re-entered the Middle East trade in the fall of 1975, offering LASH service regularly from U.S. Gulf and East coast ports to ports in the Red Sea and Arabian-Persian Gulf. Today, Central Gulf operates seven LASH vessels on regularlyscheduled sailings to the Middle East, while continuing to maintain its established service commitments to the United Kingdom, Europe and South East Asia. Expanding its Middle East service to provide shippers with additional advanced shipping methods, Central Gulf in June of 1976 began operating the new roll-on/roll-off (RO/RO) vessel S.S. Arizona from U.S. Gulf and East coast ports direct to the Saudi Arabian ports of Jeddah and Dammam. The 19,543-ton Arizona is one of the fastest (23 knots) and most advanced ships of its type in the world Central Gulf in 1971 became an affiliate of Trans Union Corporation, a multi-division company headquartered in Chicago and active in the fields of transportation, manufacturing, real estate leasing, and water and waste treatment. Central Gulf heads up the corporation’s Ocean Shipping Group. The affiliation with Trans Union has enabled Central Gulf Lines to proceed with plans for continued growth and expansion of its fleet, while providing for continuation and broadening of comprehensive transportation services for firms engaged in foreign trade. Entering its fourth decade of service, Central Gulf Lines is the world’s largest LASH operator and one of the United States’ leading vessel owners and operators. The agents in Singapore for Central Gulf Lines, Inc., are Orient Lloyd Sdn. Bhd."
+      ],
+      "annotations": [
+        {
+          "id": "5db51acb-d4d4-4341-b8dc-3d5641f643ba",
+          "article_id": "d29971c3-2176-4522-a57f-3d37f8d46dd3",
+          "page_index": 10,
+          "bbox_orig": [
+            75.99014282226562,
+            794.14697265625,
+            1028.0435791015625,
+            2275.548095703125
+          ],
+          "type": "Image",
+          "text": "",
+          "path": "Processed_Articles\\images\\d29971c3-2176-4522-a57f-3d37f8d46dd3_6ac6a269cd40471d99df11ac9017e0e7.png"
+        },
+        {
+          "id": "9777d1e1-df3c-458e-9087-a1675e9d3dfc",
+          "article_id": "d29971c3-2176-4522-a57f-3d37f8d46dd3",
+          "page_index": 10,
+          "bbox_orig": [
+            399.99999999999994,
+            181.81818181818178,
+            1277.272727272727,
+            290.9090909090909
+          ],
+          "type": "Title",
+          "text": "The LASH Leaders"
+        },
+        {
+          "id": "0c1e09b8-56ef-4b15-b607-406316c9a8a0",
+          "article_id": "d29971c3-2176-4522-a57f-3d37f8d46dd3",
+          "page_index": 10,
+          "bbox_orig": [
+            69.97610703145997,
+            315.9527256875011,
+            547.0859277005052,
+            786.701082080959
+          ],
+          "type": "Body",
+          "text": "The world’s first LASH (Lighter Aboard Ship) operator today operates the world’s largest LASH fleet. Central Gulf Lines pioneered LASH operations, beginning in 1969 with the the world’s first LASH vessel, M/V ACADIA FOREST, and adding a sister ship, M/V ATLANTIC FOREST, in 1970. Both of these 860-foot-long, 46, 500-ton, 83 LASH barge-capacity vessels serve U.S. Gulf ports, UK/North Europe and the Middle East. The. company’s LASH system demonstrated cargo shipper and operational advantages both for areas that contain back-up inland river systems, as well as for major and developing port areas that are not connected to such inland systems. Initial operating experience proved the soundness and versatility of LASH as an effective transportation system, and Central Gulf proceeded with a $120 million fleet expansion program that encompassed"
+        },
+        {
+          "id": "ae429c04-6035-47a5-a55a-89c3c1658e7a",
+          "article_id": "d29971c3-2176-4522-a57f-3d37f8d46dd3",
+          "page_index": 10,
+          "bbox_orig": [
+            553.4473919760925,
+            315.9527256875011,
+            1015.7137960021008,
+            797.3035225402712
+          ],
+          "type": "Body",
+          "text": "the building of three LASH vessels and more than 600 LASH barges. These new LASH vessels, S.S. GREEN VALLEY, GREEN HARBOUR and GREEN ISLAND inaugurated in late 1974 the first LASH service to Singapore, Indonesia, Malaysia and other South East Asian points, serving U.S. Gulf and East coast ports outbound and inbound. Sailings every 25 days were established, resulting in positive acceptance by exporters and importers. Largest cargoliners of their type, the vessels carry 89 LASH barges, are 893 feet long, have a service speed of 22 knots and a deadweight of 46,039 tons. Central Gulf’s world-leading LASH barge fleet now numbers 1,430 units. In addition, the company has developed and operates four float-on/ float-off barge feeder vessels called FLASH. The FLASH carriers are shallow-draft vessels that carry from eight to 15 LASH barges to and from"
+        },
+        {
+          "id": "15586600-fca7-4c25-b427-0f24a82288e0",
+          "article_id": "d29971c3-2176-4522-a57f-3d37f8d46dd3",
+          "page_index": 10,
+          "bbox_orig": [
+            1026.316236461413,
+            315.9527256875011,
+            1497.0645928548709,
+            1331.666521689602
+          ],
+          "type": "Body",
+          "text": "ports that cannot accommodate oceangoing liners and that were formerly served only by indirect means involving numerous transhipments of cargo. The FLASH vessels are towed by seagoing towboats between the LASH ocean carrier that calls major ports and the many outlying ports that Central Gulf serves. Central Gulf re-entered the Middle East trade in the fall of 1975, offering LASH service regularly from U.S. Gulf and East coast ports to ports in the Red Sea and Arabian-Persian Gulf. Today, Central Gulf operates seven LASH vessels on regularlyscheduled sailings to the Middle East, while continuing to maintain its established service commitments to the United Kingdom, Europe and South East Asia. Expanding its Middle East service to provide shippers with additional advanced shipping methods, Central Gulf in June of 1976 began operating the new roll-on/roll-off (RO/RO) vessel S.S. Arizona from U.S. Gulf and East coast ports direct to the Saudi Arabian ports of Jeddah and Dammam. The 19,543-ton Arizona is one of the fastest (23 knots) and most advanced ships of its type in the world Central Gulf in 1971 became an affiliate of Trans Union Corporation, a multi-division company headquartered in Chicago and active in the fields of transportation, manufacturing, real estate leasing, and water and waste treatment. Central Gulf heads up the corporation’s Ocean Shipping Group. The affiliation with Trans Union has enabled Central Gulf Lines to proceed with plans for continued growth and expansion of its fleet, while providing for continuation and broadening of comprehensive transportation services for firms engaged in foreign trade. Entering its fourth decade of service, Central Gulf Lines is the world’s largest LASH operator and one of the United States’ leading vessel owners and operators. The agents in Singapore for Central Gulf Lines, Inc., are Orient Lloyd Sdn. Bhd."
+        }
+      ],
+      "manual_modified": true,
+      "images": [
+        {
+          "path": "Processed_Articles\\images\\d29971c3-2176-4522-a57f-3d37f8d46dd3_6ac6a269cd40471d99df11ac9017e0e7.png",
+          "bbox": [
+            75.99014282226562,
+            794.14697265625,
+            1028.0435791015625,
+            2275.548095703125
+          ],
+          "page_index": 10
+        }
+      ]
+    },
+    "f00d5131-6ab3-4e2f-bb2c-105768ad95b0": {
+      "id": "f00d5131-6ab3-4e2f-bb2c-105768ad95b0",
+      "title": "SMIT At World Cross-Roads",
+      "author": "",
+      "date": "",
+      "issue": "",
+      "bodies": [
+        "In 1842, Smit International started its activities with one paddle tug assisting sailing ships from the North Sea to Rotterdam and back. This modest beginning developed into a worldwide. organisation which is now called the Smit International Group. For years deepsea, coastal and harbour towage, as well as salvage were the mainstay of the company’s activities. With the development of offshore activities, SMIT’s involvements became more numerous and varied with offshore supply services, rig moves, anchor handling, heavy and high lift operations, wreck removal, marine offshore engineering, deepsea diving, underwater survey and maintenance and submersible barge operations. These are just to name some of the Smit International’s worldwide activities.",
+        "with the sophisticated equipment and the good spirit of the men executing their task are the key to the success of Smit International. It does not only benefit the clients but is also invaluable to the area they operate in. It goes without saying that, especially in marine salvage, a well executed and swift operation can often mean the prevention of extensive damage to property and to the environment. The combination of the generation old expertise and experience of the Smit International Group together with the local knowledge of their Asian counterpart has become another step towards mutual understanding and success.",
+        "Besides the capability and spirit of the men in the company, the equipment is one .very important factor which decides on success or failure. Since its very first days, the Smit International Group has never settled for any inferior quality or inadequate quantity of its equipment. Their tugs, cranes, barges and salvage vessels are all of first class construction and a top standard of maintenance is kept. Since the company operates worldwide, it can afford to carry out constant research for new equipment or methods. The vast experience gained is used to the benefit of each client who requires the service. SS eee Se a ane ens ieee cee Nae a",
+        "The Smit International Group realised that their expertise and experience are also required in other parts of the world and therefore a number of operating companies was established all over the world. Naturally, these companies were set up in strategic positions around the globe. For the Far East and South East Asia, the obvious choice was Singapore, the crossroads of the world shipping lanes. Since 1975, Smit International South East Asia has its home in Singapore and during its time of existence has proved its capability, ability for quick response and expertise on numerous occasions. Led by a handful of experienced men from the parent company, a group of some 160 well trained, enthusiastic specialists carry on the tradition of Smit International in Asia. They all have one objective — making their tough and sometime dangerous job a success. All are proud to be members of this outstanding organisation which has integrated them fully into the company’s family, and the company is equally proud to have them under their flag. Good international understanding grooms in an atmosphere of mutual respect and the preparedness to work together on equal basis — all for one and one for all. Working in SMIT is a challenge for the workers and everyone benefits through the efforts of the Group in the true ‘team spirit’. This is a feeling which can only be appreciated when one has to look into the tired but beaming faces of the men who are satisfied to have accomplished a task together and have a right to be proud of it. As expected Smit found this spirit as much in Asia as every where else in the world, the spirit of men who are determined to face the elements and to win."
+      ],
+      "annotations": [
+        {
+          "id": "fff84ec7-a343-4f8e-b71b-061737c06cf9",
+          "article_id": "f00d5131-6ab3-4e2f-bb2c-105768ad95b0",
+          "page_index": 13,
+          "bbox_orig": [
+            412.2060241699219,
+            158.8062744140625,
+            1187.7652587890625,
+            246.5093994140625
+          ],
+          "type": "Title",
+          "text": "SMIT At World Cross-Roads Ge ee ee ae eee Racidac the canahilitu and cnirit af the caer cae ee"
+        },
+        {
+          "id": "57f47e27-a3a1-453c-97c9-ebe85ca465eb",
+          "article_id": "f00d5131-6ab3-4e2f-bb2c-105768ad95b0",
+          "page_index": 13,
+          "bbox_orig": [
+            117.75971221923828,
+            227.03460693359375,
+            601.6730346679688,
+            759.2584838867188
+          ],
+          "type": "Body",
+          "text": "In 1842, Smit International started its activities with one paddle tug assisting sailing ships from the North Sea to Rotterdam and back. This modest beginning developed into a worldwide. organisation which is now called the Smit International Group. For years deepsea, coastal and harbour towage, as well as salvage were the mainstay of the company’s activities. With the development of offshore activities, SMIT’s involvements became more numerous and varied with offshore supply services, rig moves, anchor handling, heavy and high lift operations, wreck removal, marine offshore engineering, deepsea diving, underwater survey and maintenance and submersible barge operations. These are just to name some of the Smit International’s worldwide activities."
+        },
+        {
+          "id": "f3ea5d0b-470c-43a3-9408-daa38c628e92",
+          "article_id": "f00d5131-6ab3-4e2f-bb2c-105768ad95b0",
+          "page_index": 13,
+          "bbox_orig": [
+            1065.7647705078125,
+            228.9735107421875,
+            1545.1793212890625,
+            628.3770141601562
+          ],
+          "type": "Body",
+          "text": "with the sophisticated equipment and the good spirit of the men executing their task are the key to the success of Smit International. It does not only benefit the clients but is also invaluable to the area they operate in. It goes without saying that, especially in marine salvage, a well executed and swift operation can often mean the prevention of extensive damage to property and to the environment. The combination of the generation old expertise and experience of the Smit International Group together with the local knowledge of their Asian counterpart has become another step towards mutual understanding and success."
+        },
+        {
+          "id": "d4cbddcd-25df-428a-bc3a-5f458ec14e6c",
+          "article_id": "f00d5131-6ab3-4e2f-bb2c-105768ad95b0",
+          "page_index": 13,
+          "bbox_orig": [
+            585.8618774414062,
+            233.50619506835938,
+            1065.574951171875,
+            620.0321044921875
+          ],
+          "type": "Body",
+          "text": "Besides the capability and spirit of the men in the company, the equipment is one .very important factor which decides on success or failure. Since its very first days, the Smit International Group has never settled for any inferior quality or inadequate quantity of its equipment. Their tugs, cranes, barges and salvage vessels are all of first class construction and a top standard of maintenance is kept. Since the company operates worldwide, it can afford to carry out constant research for new equipment or methods. The vast experience gained is used to the benefit of each client who requires the service. SS eee Se a ane ens ieee cee Nae a"
+        },
+        {
+          "id": "522a7bcc-2cac-434b-bf99-55bff742470f",
+          "article_id": "f00d5131-6ab3-4e2f-bb2c-105768ad95b0",
+          "page_index": 13,
+          "bbox_orig": [
+            586.7556762695312,
+            613.933349609375,
+            1567.7322998046875,
+            2207.634521484375
+          ],
+          "type": "Image",
+          "text": "",
+          "path": "Processed_Articles\\images\\f00d5131-6ab3-4e2f-bb2c-105768ad95b0_d122c2d2e95e41f8b5efe0a938009514.png"
+        },
+        {
+          "id": "29fd7f47-03a3-4887-9533-fc9329a71576",
+          "article_id": "f00d5131-6ab3-4e2f-bb2c-105768ad95b0",
+          "page_index": 13,
+          "bbox_orig": [
+            129.8917999267578,
+            784.4284057617188,
+            581.2325439453125,
+            1123.6842041015625
+          ],
+          "type": "Image",
+          "text": "",
+          "path": "Processed_Articles\\images\\f00d5131-6ab3-4e2f-bb2c-105768ad95b0_c02c2bcb52ed491c81dc9ab1c4f86a21.png"
+        },
+        {
+          "id": "04df3e76-89ac-46cb-be9f-30aa881452ec",
+          "article_id": "f00d5131-6ab3-4e2f-bb2c-105768ad95b0",
+          "page_index": 13,
+          "bbox_orig": [
+            113.85681915283203,
+            1153.704345703125,
+            595.7845458984375,
+            2253.468017578125
+          ],
+          "type": "Body",
+          "text": "The Smit International Group realised that their expertise and experience are also required in other parts of the world and therefore a number of operating companies was established all over the world. Naturally, these companies were set up in strategic positions around the globe. For the Far East and South East Asia, the obvious choice was Singapore, the crossroads of the world shipping lanes. Since 1975, Smit International South East Asia has its home in Singapore and during its time of existence has proved its capability, ability for quick response and expertise on numerous occasions. Led by a handful of experienced men from the parent company, a group of some 160 well trained, enthusiastic specialists carry on the tradition of Smit International in Asia. They all have one objective — making their tough and sometime dangerous job a success. All are proud to be members of this outstanding organisation which has integrated them fully into the company’s family, and the company is equally proud to have them under their flag. Good international understanding grooms in an atmosphere of mutual respect and the preparedness to work together on equal basis — all for one and one for all. Working in SMIT is a challenge for the workers and everyone benefits through the efforts of the Group in the true ‘team spirit’. This is a feeling which can only be appreciated when one has to look into the tired but beaming faces of the men who are satisfied to have accomplished a task together and have a right to be proud of it. As expected Smit found this spirit as much in Asia as every where else in the world, the spirit of men who are determined to face the elements and to win."
+        }
+      ],
+      "manual_modified": true,
+      "images": [
+        {
+          "path": "Processed_Articles\\images\\f00d5131-6ab3-4e2f-bb2c-105768ad95b0_d122c2d2e95e41f8b5efe0a938009514.png",
+          "bbox": [
+            586.7556762695312,
+            613.933349609375,
+            1567.7322998046875,
+            2207.634521484375
+          ],
+          "page_index": 13
+        },
+        {
+          "path": "Processed_Articles\\images\\f00d5131-6ab3-4e2f-bb2c-105768ad95b0_c02c2bcb52ed491c81dc9ab1c4f86a21.png",
+          "bbox": [
+            129.8917999267578,
+            784.4284057617188,
+            581.2325439453125,
+            1123.6842041015625
+          ],
+          "page_index": 13
+        }
+      ]
+    },
+    "a41999be-877a-4ef5-a5b6-3a70ae4ad49e": {
+      "id": "a41999be-877a-4ef5-a5b6-3a70ae4ad49e",
+      "title": "CHINA SHIPS USE LONDON CHINA TERMINAL",
+      "author": "",
+      "date": "",
+      "issue": "",
+      "bodies": [
+        "The first ever exports shipped through the Port | of London Authority’s (PLA) enclosed docks to the People’s Republic of China were recently loaded onto the China Ocean Shipping Company’s (C.0.S.C.0.) vessel “Dongshan” at the China Terminal in the Royal Albert Dock. Over 1,000 tonnes, consisting mainly of press packed bales of man-made fibres and reels of strip steel on pallets, were loaded during this initial shipment for Whampoa. The PLA is hopeful that this initial breakthrough will now build up into a regular feature of their trade to augment the existing buoyant import trade that has grown up since the Terminal was opened in 1974.",
+        "The first ever exports shipped through the Port | of London Authority’s (PLA) enclosed docks to the People’s Republic of China were recently loaded onto the China Ocean Shipping Company’s (C.0.S.C.0.) vessel “Dongshan” at the China Terminal in the Royal Albert Dock. Over 1,000 tonnes, consisting mainly of press packed bales of man-made fibres and reels of strip steel on pallets, were loaded during this initial shipment for Whampoa. The PLA is hopeful that this initial breakthrough will now build up into a regular feature of their trade to augment the existing buoyant import trade that has grown up since the Terminal was opened in 1974."
+      ],
+      "annotations": [
+        {
+          "id": "fed58f40-f4bd-4418-8954-c5d521a5ef74",
+          "article_id": "a41999be-877a-4ef5-a5b6-3a70ae4ad49e",
+          "page_index": 10,
+          "bbox_orig": [
+            1081.448926849836,
+            1397.401652537337,
+            1456.7753191094848,
+            1484.3416643036965
+          ],
+          "type": "Title",
+          "text": "CHINA SHIPS USE LONDON CHINA TERMINAL"
+        },
+        {
+          "id": "1558abae-504b-4e59-bd0c-d82c37a2b46f",
+          "article_id": "a41999be-877a-4ef5-a5b6-3a70ae4ad49e",
+          "page_index": 10,
+          "bbox_orig": [
+            1028.6487733624617,
+            1485.8260059680001,
+            1495.1561535721949,
+            1868.3620577399813
+          ],
+          "type": "Body",
+          "text": "The first ever exports shipped through the Port | of London Authority’s (PLA) enclosed docks to the People’s Republic of China were recently loaded onto the China Ocean Shipping Company’s (C.0.S.C.0.) vessel “Dongshan” at the China Terminal in the Royal Albert Dock. Over 1,000 tonnes, consisting mainly of press packed bales of man-made fibres and reels of strip steel on pallets, were loaded during this initial shipment for Whampoa. The PLA is hopeful that this initial breakthrough will now build up into a regular feature of their trade to augment the existing buoyant import trade that has grown up since the Terminal was opened in 1974."
+        }
+      ],
+      "manual_modified": true
+    },
+    "2f1e3f1a-fc74-4d8c-83c5-8e262bb32194": {
+      "id": "2f1e3f1a-fc74-4d8c-83c5-8e262bb32194",
+      "title": "ANRO’S NEW BABY",
+      "author": "",
+      "date": "",
+      "issue": "",
+      "bodies": [
+        "Work is nearing completion on the first of three container vessels of advanced yard design being built by the Kawasaki Heavy Industries yard at Kobe, Japan for the newly-formed ANRO consortium. This hybrid roll-on/roll-off and lift-on/lift-off ship will serve the trade with an llday frequency of sailings between Australia, Singapore and Malaysia starting in October this year. There will be a heavy emphasis on carrying meat, fruit and vegetables in refrigerated containers from Australia to S.E. Asia and bringing cargo in containers and unitised timber ‘on return trips to Australia.",
+        "Work is nearing completion on the first of three container vessels of advanced yard design being built by the Kawasaki Heavy Industries yard at Kobe, Japan for the newly-formed ANRO consortium. This hybrid roll-on/roll-off and lift-on/lift-off ship will serve the trade with an llday frequency of sailings between Australia, Singapore and Malaysia starting in October this year. There will be a heavy emphasis on carrying meat, fruit and vegetables in refrigerated containers from Australia to S.E. Asia and bringing cargo in containers and unitised timber ‘on return trips to Australia."
+      ],
+      "annotations": [
+        {
+          "id": "b09f0d7a-2bcc-41cd-a598-8e7eaa08b1bc",
+          "article_id": "2f1e3f1a-fc74-4d8c-83c5-8e262bb32194",
+          "page_index": 10,
+          "bbox_orig": [
+            1112.6201018002137,
+            1898.685037453614,
+            1420.5149727386374,
+            1956.9984599798306
+          ],
+          "type": "Title",
+          "text": "ANRO’S NEW BABY"
+        },
+        {
+          "id": "9a175698-43ac-480f-8931-5ca148729617",
+          "article_id": "2f1e3f1a-fc74-4d8c-83c5-8e262bb32194",
+          "page_index": 10,
+          "bbox_orig": [
+            1033.3138471645589,
+            1956.9984599798306,
+            1530.1442070879248,
+            2278.8885523245467
+          ],
+          "type": "Body",
+          "text": "Work is nearing completion on the first of three container vessels of advanced yard design being built by the Kawasaki Heavy Industries yard at Kobe, Japan for the newly-formed ANRO consortium. This hybrid roll-on/roll-off and lift-on/lift-off ship will serve the trade with an llday frequency of sailings between Australia, Singapore and Malaysia starting in October this year. There will be a heavy emphasis on carrying meat, fruit and vegetables in refrigerated containers from Australia to S.E. Asia and bringing cargo in containers and unitised timber ‘on return trips to Australia."
+        }
+      ],
+      "manual_modified": true
+    }
+  },
+  "annotations": [
+    {
+      "id": "b432a724-64ea-40c8-be78-51be944d3d1e",
+      "article_id": "cad043ca-7b09-4001-af12-7d68b0d0208b",
+      "page_index": 0,
+      "bbox_orig": [
+        296.76934635612315,
+        706.235912847483,
+        1363.6363636363633,
+        796.3936889556722
+      ],
+      "type": "Title",
+      "text": "Toyota forklifts serves PSAs new gate"
+    },
+    {
+      "id": "36cb7293-13a3-4605-88b0-a3405f999994",
+      "article_id": "cad043ca-7b09-4001-af12-7d68b0d0208b",
+      "page_index": 0,
+      "bbox_orig": [
+        135.23666416228397,
+        916.6040570999247,
+        1066.8670172802401,
+        2280.240420736288
+      ],
+      "type": "Image",
+      "text": "",
+      "path": "Processed_Articles\\images\\cad043ca-7b09-4001-af12-7d68b0d0208b_07ac772cffab44bc96bb7ac6e1619d61.png"
+    },
+    {
+      "id": "375656e0-0fb2-4694-8a89-0dcc929cd7c5",
+      "article_id": "cad043ca-7b09-4001-af12-7d68b0d0208b",
+      "page_index": 0,
+      "bbox_orig": [
+        108.14489268498359,
+        769.7371773460596,
+        581.013737170304,
+        907.5689033171172
+      ],
+      "type": "Body",
+      "text": "United Motor Works latest coup is a single tender award for the supply. of 102 units 3 ton diesel driven forklift trucks and ten units 2’ ton battery forklifts to PSA. These forklifts are now operating"
+    },
+    {
+      "id": "5d5a6bd0-392a-4377-b7d9-4f0aeeb04bd3",
+      "article_id": "cad043ca-7b09-4001-af12-7d68b0d0208b",
+      "page_index": 0,
+      "bbox_orig": [
+        583.1342252621664,
+        771.8576654379222,
+        1062.3645340230742,
+        905.4484152252548
+      ],
+      "type": "Body",
+      "text": "at PSA’s new gateway at Pasir Panjang, Singapore. Quite apart from this deal Toyota forklift trucks are currently the largest selling range of material handling equipment in Singapore and Malaysia."
+    },
+    {
+      "id": "acb67761-aa30-4871-a8d6-21855d9005c6",
+      "article_id": "cad043ca-7b09-4001-af12-7d68b0d0208b",
+      "page_index": 0,
+      "bbox_orig": [
+        1066.605510206799,
+        778.2191297135093,
+        1535.2333785083945,
+        1051.762093563762
+      ],
+      "type": "Body",
+      "text": "Their range of forklifts available covers 1000 kg to 25000 kg diesel driven forklift trucks, petrol and LP. gas trucks from 700 kg to 6000 kg and battery powered from 500 kg to 4000 kg. The main models are available almost immediately. Forklift trucks have made material handling fast, efficient and indeed safe. With international trade growing and material handling becomingmore than just efficient and neat stacking, forklifts have undergone many innovations in adaptability."
+    },
+    {
+      "id": "c6937b64-503d-48f2-af69-b77e8e96b799",
+      "article_id": "cad043ca-7b09-4001-af12-7d68b0d0208b",
+      "page_index": 0,
+      "bbox_orig": [
+        1064.4850221149366,
+        1049.6416054718995,
+        1552.197283243294,
+        1588.2455808049551
+      ],
+      "type": "Image",
+      "text": "",
+      "path": "Processed_Articles\\images\\cad043ca-7b09-4001-af12-7d68b0d0208b_cc93b2294f6c47e69d811451f7e02992.png"
+    },
+    {
+      "id": "4d721510-f513-46ca-8cf7-4004a263a1d8",
+      "article_id": "cad043ca-7b09-4001-af12-7d68b0d0208b",
+      "page_index": 0,
+      "bbox_orig": [
+        1173.266061227479,
+        1742.4050650833533,
+        1530.1442070879248,
+        2260.2282571161572
+      ],
+      "type": "Body",
+      "text": "orklifts can also be attached with clamps with bales of cotton or pulp, drums and | rotating clamp for paper rolls. Further of these workhorses is obtained by a ram for coiled goods, a crane arm for jects with slings, hinged forks which can d with bucket, load stabilizers for high fragile cargo. | forklifts come with UMW after sales arantee. UMW maintain a large fleet of ispection and service vehicles manned skilled trouble-shooter mechanics. This nises lay down time and regularly inspects klifts at worksites to diagnose potential free of charge, advise on necessary replaces and service the trucks if required. They | as well. MW spokesman added, “Our motto is — ith expertise.” A mouthful? No, a vari-"
+    },
+    {
+      "id": "cd2193ba-f174-4b12-bd5b-1e649d3f92a6",
+      "article_id": "cad043ca-7b09-4001-af12-7d68b0d0208b",
+      "page_index": 0,
+      "bbox_orig": [
+        1072.9669744823864,
+        1583.7925558120442,
+        1574.4624082078494,
+        2306.8789951371305
+      ],
+      "type": "Body",
+      "text": "eThe Toyota forklifts come with many attachments suitable for various diversified industries. For very high lifts a 3-stage mast can be fitted to reach a height of 6500 mm (256”). To load and unload in low holds of ships and containers a 2stage full free lift mast can be attached together with a side-shifter. Their forklifts can also be attached with clamps for work with bales of cotton or pulp, drums and a full 360 rotating clamp for paper rolls. Further versatility of these workhorses is obtained by attaching a ram for coiled goods, a crane arm for lifting objects with slings, hinged forks which can be coupled with bucket, load stabilizers for high stack and fragile cargo. Toyota forklifts come with UMW after sales service guarantee. UMW maintain a large fleet of mobile inspection and service vehicles manned by highly skilled trouble-shooter mechanics. This unit minimises lay down time and regularly inspects Toyota forklifts at worksites to diagnose potential problems free of charge, advise on necessary replacement parts and service the trucks if required. They are on call as well. One UMW spokesman added, “Our motto is — service with expertise.” A mouthful? No, a varifiable fact."
+    },
+    {
+      "id": "cb0e927e-66cb-41de-b7fa-544834583b3f",
+      "article_id": "8bdeda19-db38-4a93-9b64-4d5e56b09f62",
+      "page_index": 1,
+      "bbox_orig": [
+        222.23992919921875,
+        181.69424438476562,
+        724.4431762695312,
+        334.4302978515625
+      ],
+      "type": "Title",
+      "text": "New Port Facility Nears Completion"
+    },
+    {
+      "id": "7faa4d4a-1540-46d5-9da9-c99d2de5bd7a",
+      "article_id": "8bdeda19-db38-4a93-9b64-4d5e56b09f62",
+      "page_index": 1,
+      "bbox_orig": [
+        110.69403076171875,
+        356.9523010253906,
+        823.6663208007812,
+        771.359375
+      ],
+      "type": "Image",
+      "text": "",
+      "path": "Processed_Articles\\images\\8bdeda19-db38-4a93-9b64-4d5e56b09f62_3b7ebcb49a0249858a08ab798117425d.png"
+    },
+    {
+      "id": "c812f640-8c4e-4041-b2fd-9ac4277fc816",
+      "article_id": "8bdeda19-db38-4a93-9b64-4d5e56b09f62",
+      "page_index": 1,
+      "bbox_orig": [
+        108.96531677246094,
+        1791.3553466796875,
+        589.69287109375,
+        2241.481201171875
+      ],
+      "type": "Body",
+      "text": "Newly-built pleasure boats are becoming a common sight on the decks of containerships these days, as the box carriers are proving a safer and faster mode of transport for high-value cargoes. With the systematic loading and unloading and placement of containers on board, uncontainerisable deck cargoes are not so prone to hard knocks that are common in conventional shipping. American Marine, builder of the Grand Banks range of luxury crafts, over the weekend exported a 32 foot model to a client in Europe. The boat was fixed with a cradle and loaded on board the ScanDutch containership Nedlloyd Delft for a slightly over 20-day trip to Denmark. American Marine, which exports about 10 per cent of its boats to Europe, uses containership transport to ensure the high quality finishing of its crafts remains intact when delivered to customers."
+    },
+    {
+      "id": "51a9a2f2-2105-438e-b145-edaed186dfdc",
+      "article_id": "8bdeda19-db38-4a93-9b64-4d5e56b09f62",
+      "page_index": 1,
+      "bbox_orig": [
+        606.5364379882812,
+        1052.1466064453125,
+        1519.244140625,
+        2163.240966796875
+      ],
+      "type": "Image",
+      "text": "",
+      "path": "Processed_Articles\\images\\8bdeda19-db38-4a93-9b64-4d5e56b09f62_331133834f324fe0a794046f72361f68.png"
+    },
+    {
+      "id": "9736c846-0977-4bb3-8174-8dfe010b1729",
+      "article_id": "8bdeda19-db38-4a93-9b64-4d5e56b09f62",
+      "page_index": 1,
+      "bbox_orig": [
+        235.3821282540751,
+        1701.0281801827828,
+        530.3943956658493,
+        1782.6273179775287
+      ],
+      "type": "Title",
+      "text": "CONTAINERISED PLEASURE BOATS"
+    },
+    {
+      "id": "b5380da3-42cd-479c-a573-3a5bc7a4db17",
+      "article_id": "7e37015e-53f0-4f44-a472-437aac0f7f7b",
+      "page_index": 1,
+      "bbox_orig": [
+        207.49939680800006,
+        183.91991989800005,
+        747.4694180470002,
+        330.1126767400001
+      ],
+      "type": "Title",
+      "text": "New Port Facility Nears Completion"
+    },
+    {
+      "id": "8d391550-1bc8-4ef1-9bbe-6a284bedb513",
+      "article_id": "7e37015e-53f0-4f44-a472-437aac0f7f7b",
+      "page_index": 1,
+      "bbox_orig": [
+        110.82354147700002,
+        834.7134826140002,
+        841.7873256870001,
+        999.7698209840003
+      ],
+      "type": "Body",
+      "text": "At the East Lagoon on the northern side of the PSA container terminal , two new container berths are now under construction. These berths will cater increased container traffic expected in the next few years. The first berth will provide a special shore based ramp designed to service the three new vessels of the ANRO Consortium which comprises the Australian National Line, Neptune Orient Lines of Singapore, Australia Straits Container Line and Nedllyod Lines. Completion of the berth is expected by the end of September 1977."
+    },
+    {
+      "id": "38aa6195-255c-42bc-aeb7-6b52655a048b",
+      "article_id": "7e37015e-53f0-4f44-a472-437aac0f7f7b",
+      "page_index": 1,
+      "bbox_orig": [
+        103.74969840400003,
+        997.4118732930002,
+        594.2028181320002,
+        1634.0577498630003
+      ],
+      "type": "Body",
+      "text": "The two berths totalling about S$66 million will be 640 metres in length with two main access bridges linking them to a 19.5 hectare marshalling yard and 10.5 heotares of back up land. The schedule was 18 months for completion of the first berth and 26 months for the complete project. To date the schedule has been maintained. Although the extra capacity provided by the 2 berths will help equip the terminal to cater for the estimated growth in container traffic between now and 1980, the project has been designed to be as flexible as possible. Four 35 tonne portainer cranes purchased at a cost of about $$2.56 million each, plus several transtainer cranes will service the berths. This equipment combined with the modern gear and design of the vessels will help cater for the growth in cargo traffic by improving turn-around times and collection and delivery of cargo. The two new berths will be equipped and fully operational by 1979 just about the same time the existing facilities will have reached their optimum capacity. The construction of the two new berths coincides with the commencement of work on a $$50 million inland container depot at Bukit Timah, about 25 kilometres from the terminal. Its function will be a container storage area and a break bulk consolidation depot."
+    },
+    {
+      "id": "f7ea7b21-4a8b-4aa8-b9e6-1cf14a132044",
+      "article_id": "7e37015e-53f0-4f44-a472-437aac0f7f7b",
+      "page_index": 2,
+      "bbox_orig": [
+        91.52644348144531,
+        1204.852783203125,
+        1515.005615234375,
+        2282.677734375
+      ],
+      "type": "Image",
+      "text": "",
+      "path": "Processed_Articles\\images\\7e37015e-53f0-4f44-a472-437aac0f7f7b_8391836e19ea46c790e3c781cba2b964.png"
+    },
+    {
+      "id": "3d1ce77b-3001-4e5e-bddd-d276d5c6cbf7",
+      "article_id": "7e37015e-53f0-4f44-a472-437aac0f7f7b",
+      "page_index": 2,
+      "bbox_orig": [
+        536.98876953125,
+        370.2620849609375,
+        1004.8649291992188,
+        1098.9442138671875
+      ],
+      "type": "Image",
+      "text": "",
+      "path": "Processed_Articles\\images\\7e37015e-53f0-4f44-a472-437aac0f7f7b_53d4905e96704a2b93b6f262b8e1deb9.png"
+    },
+    {
+      "id": "5029d41c-850f-4e64-8f87-a9a92f98aec3",
+      "article_id": "7e37015e-53f0-4f44-a472-437aac0f7f7b",
+      "page_index": 2,
+      "bbox_orig": [
+        74.58367919921875,
+        342.7957763671875,
+        530.2117309570312,
+        1163.768798828125
+      ],
+      "type": "Body",
+      "text": "Possibly the only organisation specialising in oilfield material handling, on a large scale. in Singapore, is Boswell International (H.K.) Pte Ltd. Their offices are perched symbo lically high in the Chinese Chamber ot! Commerce. Apart from their oilfield material handling they also haul heavy and allied equipment. The company maintains a fleet of nearly thirty heavy loaders with a range of three to sixty-five tons individually. Their clients have the added advantage of total service in the form of shipping and air freight documentation both for inward and outward destinations. Shipping and airfreight offices are located within the same roof, thus saving time and effort. Boswell also own boats and barges and have their own crew and boarding officers. This makes it easier for them to carry out their work efficiently and in the shortest time possible. The company’s efficiency rating is pretty high due mainly to the fact that it has its own workshops for maintenance. As a result of this facility special loads are always escorted by another vehicle carrying qualified mechanics, spares and ancilliary neces: sities in the event of a breakdown. This mini-"
+    },
+    {
+      "id": "41715aeb-1917-4ce6-bbae-d79c70e1ef13",
+      "article_id": "7e37015e-53f0-4f44-a472-437aac0f7f7b",
+      "page_index": 2,
+      "bbox_orig": [
+        1002.9720458984375,
+        340.27557373046875,
+        1493.3232421875,
+        1164.5736083984375
+      ],
+      "type": "Body",
+      "text": "mises breakdown time and the expensive and time consuming process of transferring loads from the breakdown vehicle to another. Add to this the fact that their staff is highly experienced and have been with the company for some years. Their loyalty is total and their personal interest in the safe, fast and economical delivery of loads. In a brief conversation with the Singapore Shipping and Air Gazette, Mr Jeorji Boswell, a director of the company said, “We are a service organisation and as such we must be very thorough in our systems. Millions of dollars worth of goods pass through our hands, because of trust. Therefore we cannot afford mistakes.” Boswell International operates on more than 95% local staff, whom they look after well. Only the top echelon executives are | expatriates. : What is amazing is that the company, | while being very modern in its operations, is able to remain highly competitive in charges _ and in some instances even lower than the | test of the transport companies. This is perhaps possible because of their being almost self sufficient. We say almost because they do not own an oilfield."
+    },
+    {
+      "id": "8cceb7c1-0aa2-4bf8-b015-256918ce0443",
+      "article_id": "7e37015e-53f0-4f44-a472-437aac0f7f7b",
+      "page_index": 2,
+      "bbox_orig": [
+        267.3438828426019,
+        217.21690480961402,
+        1365.960151398919,
+        321.64810904500536
+      ],
+      "type": "Body",
+      "text": "Oilfield haulage : Boswell’ Total Service"
+    },
+    {
+      "id": "2f70fc86-c52e-4723-8a71-aa1010873ff5",
+      "article_id": "7fd2fab7-a818-4b19-870a-30fb9b0b6148",
+      "page_index": 2,
+      "bbox_orig": [
+        229.74864931786098,
+        208.8624084707827,
+        1374.3146477377502,
+        325.825357214421
+      ],
+      "type": "Title",
+      "text": "Oilfield haulage : Boswell’ Total Service"
+    },
+    {
+      "id": "db0eec96-8c70-4201-a392-ce09d291f6cb",
+      "article_id": "7fd2fab7-a818-4b19-870a-30fb9b0b6148",
+      "page_index": 2,
+      "bbox_orig": [
+        71.01321888006612,
+        342.53434989208364,
+        534.6877656852038,
+        1165.4522392669676
+      ],
+      "type": "Body",
+      "text": "Possibly the only organisation specialising in oilfield material handling, on a large scale, in Singapore, is Boswell International (H.K.) Pte Ltd. Their offices are perched symbolically high in the Chinese Chamber of Commerce. Apart from their oilfield material handling they also haul heavy and allied equipment. The company maintains a fleet of nearly thirty heavy loaders with a range of three to sixty-five tons individually. Their clients have the added advantage of total service in the form of shipping and air freight documentation both for inward and outward destinations. Shipping and airfreight offices are located within the same roof, thus saving time and effort. Boswell also own boats and barges and have their own crew and boarding officers. This makes it easier for them to carry out their work efficiently and in the shortest time possible. The company’s efficiency rating is pretty high due mainly to the fact that it has its own workshops for maintenance. As a result of this facility special loads are always escorted by another vehicle carrying qualified mechanics, spares and ancilliary necessities in the event of a breakdown. This mini-"
+    },
+    {
+      "id": "4c6bea8a-f20b-45ca-bd20-b355b496b17c",
+      "article_id": "7fd2fab7-a818-4b19-870a-30fb9b0b6148",
+      "page_index": 2,
+      "bbox_orig": [
+        1002.539560659757,
+        342.53434989208364,
+        1495.4548446508043,
+        1177.9839837752145
+      ],
+      "type": "Body",
+      "text": "mises breakdown time and the expensive and time consuming process of transferring loads from the breakdown vehicle to another. Add to this the fact that their staff is highly experienced and have been with the company for some years. Their loyalty is total and their personal interest in the safe, fast and economical delivery of loads. In a brief conversation with the Singapore Shipping and Air Gazette, Mr Jeorji Boswell, a director of the company said, “We are a service organisation and as such we must be very thorough in our systems. Millions of dollars worth of goods pass through our hands, because of trust. Therefore we cannot afford mistakes.” Boswell International operates on more than 95% local staff, whom they look after well. Only the top echelon executives are | expatriates. : What is amazing is that the company, | while being very modern in its operations, is able to remain highly competitive in charges _ and in some instances even lower than the | test of the transport companies. This is perhaps possible because of their being almost self sufficient. We say almost because they do not own an oilfield."
+    },
+    {
+      "id": "b1d36e3a-16f4-42a8-927e-15f0ed7430a3",
+      "article_id": "3ab970fd-776d-4105-b710-bda0f8385bf3",
+      "page_index": 3,
+      "bbox_orig": [
+        105.8172607421875,
+        1231.2467041015625,
+        630.8013916015625,
+        2279.274169921875
+      ],
+      "type": "Image",
+      "text": "",
+      "path": "Processed_Articles\\images\\3ab970fd-776d-4105-b710-bda0f8385bf3_a38a8fed15724645ab6993cdc18cf8d6.png"
+    },
+    {
+      "id": "44ee0641-b7d9-49aa-898c-3817f37e9a99",
+      "article_id": "3ab970fd-776d-4105-b710-bda0f8385bf3",
+      "page_index": 3,
+      "bbox_orig": [
+        126.11628723144531,
+        255.28289794921875,
+        602.4254150390625,
+        1227.5914306640625
+      ],
+      "type": "Body",
+      "text": "A RELIABLE and economic method of on-stream analysis for increasing the efficiency of mineral processing is offered by the Australian Mineral Development Laboratories (AMDEL). AMDEL is a contract research organisation providing technical development and consulting services to industry and government in the fields of mineral and material sciences. ‘The on-stream analytical system, using radioisotope immersion probes, has application to heavy metal processing for elements above titanium in the Periodic Table, in larger-scale modern plant. It provides a method of-continuous automatic readout of metal values in process slurry streams, enabling the most efficient operation of mineral processing plant. The highly significant break-through in this new method of analysis has been the Australian development of a range of immersible probes, each housing a detector head assembly, a scintillation counter and a radioisotope source . The probes are designed to measure mineral content and slurry density, with an accuracy practical to the application, using both X-ray fluorescence and X-ray gammaray absorption techniques, while actually immersed in the Process streams. _ The probes aré inexpensive, of rugged construction and easy to install and to replace. Components of the on-stream analytical system are designed and manufactured by AMDEL will research and development support from the Australian Atomic Energy Commission. The Australian Mineral Industry Research Association and the Zinc Corporation. Under the terms of a worldwide agreement, AMDEL carries out the necessary feasibility studies, and designs, manufactures and installs the equipment. The system is sufficiently flexible to allow step-bystep growth from a basic analysis arrangement to one involving fully computerised plant control with feedback from a number of points in the process. Because of this flexibility, the cost of the installation can be effectively controlled to suit the size of the plant. The cost of the equipment, although a half to a third that of competitors, is likely to be about $A113,000 fora typical 3-stream installation. The IOSA immersion probe system has now a proved history of operation for more than five years in Australia and abroad, for copper, lead, zinc, nickel and tin. AMDEL’s services and facilities include: Analytical chemistry, mineralogy, petrology, geochemistry, geochronology, materials technology, ‘operations research, computer services, geostatistics, mine planning, mineral engineering, chemical metallugry, instrumentation, water treatment, process development, feasibility studies, pat design and commissioning. Inquiries: Australian Mineral Development Laboratories, Flemington Street, Frewville, South Australia 5063. eee Sa PEE CSREES NGS Sai ai Ae ale ED"
+    },
+    {
+      "id": "f1bafc7e-e333-404a-9fac-2b768840a44f",
+      "article_id": "3ab970fd-776d-4105-b710-bda0f8385bf3",
+      "page_index": 3,
+      "bbox_orig": [
+        186.81915999999995,
+        191.65068999999994,
+        549.1839099999999,
+        268.9551699999999
+      ],
+      "type": "Title",
+      "text": "RADIOISOTOPE ON STREAM ANALYSIS OF MINERALS"
+    },
+    {
+      "id": "cd56767b-aab7-4342-bbfa-883ca788f70d",
+      "article_id": "3ab970fd-776d-4105-b710-bda0f8385bf3",
+      "page_index": 3,
+      "bbox_orig": [
+        1114.6661811999998,
+        190.77940408999996,
+        1534.8095879599996,
+        297.9588445899999
+      ],
+      "type": "Body",
+      "text": "ASEA’S NEW METHOD TO CONTAIN NUCLEAR WASTE"
+    },
+    {
+      "id": "c9fec285-f74e-4363-a590-f5a36add392e",
+      "article_id": "fccfee21-57e3-43b4-a11b-f601f632de1f",
+      "page_index": 3,
+      "bbox_orig": [
+        1112.5225923899998,
+        190.77940408999996,
+        1534.8095879599996,
+        297.9588445899999
+      ],
+      "type": "Title",
+      "text": "ASEA’S NEW METHOD TO CONTAIN NUCLEAR WASTE"
+    },
+    {
+      "id": "1a7d635e-2e19-466e-a7d6-5610dcece47f",
+      "article_id": "fccfee21-57e3-43b4-a11b-f601f632de1f",
+      "page_index": 3,
+      "bbox_orig": [
+        1054.6456945199998,
+        293.67166696999993,
+        1564.8198312999996,
+        846.7175799499997
+      ],
+      "type": "Body",
+      "text": "__ ASEA, the Swedish worldwide manufacturer of electrical and mechanical equipment, is working on the development of a process using hot isostatic pressing for the safe containment and storage of nuclear waste. This development work which is being carried out at the Company’s High-Pressure Laboratory at Robertsfors, in the north of Sweden, promises to contain all dangers in the disposal of nuclear waste. Under high pressure the waste is compacted together to form a dense and solid body which is harder than any kind of rock including granite! this process which is called hot isostatic pressing, is already been used in some of ASEA’s products, for instance, the Quintus Presses marketed throughout the world including Singapore. This new method will not only interest countries who are now grappling with the nuclear waste problem, but also others like the Republic who are seriously considering nuclear energy as an alternative power to oil. ASEA has been working in the field of highpressure research since the 1940s and has developed a number of processes and products which have led to important breakthroughts in materials technology."
+    },
+    {
+      "id": "8c5b1c65-bc21-431c-8971-674753d2810b",
+      "article_id": "fccfee21-57e3-43b4-a11b-f601f632de1f",
+      "page_index": 3,
+      "bbox_orig": [
+        619.4971660899998,
+        190.77940408999996,
+        1052.5021057099998,
+        816.7073366099997
+      ],
+      "type": "Image",
+      "text": "—— Ae ent me : [he heA) Ty ae fa",
+      "path": "Processed_Articles\\images\\fccfee21-57e3-43b4-a11b-f601f632de1f_5350e107d21a4a3a92a67409fb088e9f.png"
+    },
+    {
+      "id": "9a3f3353-7c89-425b-a2b9-d7f641089d20",
+      "article_id": "f6c91a09-983f-4da8-b4fe-ea3bca49cccd",
+      "page_index": 4,
+      "bbox_orig": [
+        645.0253600999997,
+        167.58967059999992,
+        1346.5635160999993,
+        222.1537493999999
+      ],
+      "type": "Title",
+      "text": "PARTICIPANTS FOR N. Z. INDUSTRIES TRADE EXHIBITION"
+    },
+    {
+      "id": "582dbf8f-4613-4654-a12e-c3c90ab86674",
+      "article_id": "f6c91a09-983f-4da8-b4fe-ea3bca49cccd",
+      "page_index": 4,
+      "bbox_orig": [
+        526.1536169999997,
+        220.20503229999989,
+        995.7944380999995,
+        754.1535176999996
+      ],
+      "type": "Body",
+      "text": "The Canterbury Engineering Company is a participant in the New Zealand Industries Trade Exhibition. The company undertakes general mechanical engineering work, and tends nowadays to specialise in the design and supply of equipment for the electric power industry. The firm’s Christchurch factory provides assembly, fabrication, machine shop, non-ferrous foundry and structural facilities, with access to subcontract services for ferrous castings, forgings, extrusions and ceramics.’ The non-ferrous foundry can cast a wide range of materials, quantities and weights, and the firm has wide experience in the design and supply of castings for clamping and supporting functions. Bolted lattice or fabricated support structures are available in aluminium alloy, or in steel sections with hot-dip galvanised or painted finish. These structures can be designed for many applications, including masts for radio and microwave aerials. Specialist products for the electric power industry range from the comprehensive design and supply of complete outdoor substation installations, down to a full selection of accessories for generation, transmission and"
+    },
+    {
+      "id": "9663fb43-026f-4d2f-9f36-a1880e490492",
+      "article_id": "f6c91a09-983f-4da8-b4fe-ea3bca49cccd",
+      "page_index": 4,
+      "bbox_orig": [
+        1001.6405893999995,
+        222.1537493999999,
+        1492.7172985999994,
+        750.2560834999996
+      ],
+      "type": "Body",
+      "text": "distribution of power. Another participant in the New Zealand Industries Trade Exhibition will be Consolidated Chemicals Ltd, which has established an international reputation over 20 years for its Epiglass marine products, including glues, fillers, preservatives, paints, antifoulings, varnishes and sheathing systems. ~ ‘The company is also active in the industrial and domestic building fields with specialist adhesives, fillers, sealants and surface coatings. ‘The company’s major growth area has been in marine products, so much so that it is now the largest supplier of marine sheathing systems and coatings for, pleasure boats in New Zealand, and a major supplier in the commercial boating fields. For below the waterline, a comprehensive range of antifoulings is available in various colours and formulations. There are slow-leaching types for commercial boats, hard “E-type” grades for racing yachts or high-speed power craft which give up to 12 months growth-free protection, and copper-free “Barrier.. antifoulings suitable for alloy craft or for owners who want exotic colours."
+    },
+    {
+      "id": "11e233af-1fc9-4fe2-9f2a-4b90ed6ff234",
+      "article_id": "f6c91a09-983f-4da8-b4fe-ea3bca49cccd",
+      "page_index": 4,
+      "bbox_orig": [
+        1242.8176371815152,
+        762.6380955432026,
+        1518.9993343329631,
+        2250.2531461089557
+      ],
+      "type": "Body",
+      "text": "A wide range of products from Weldwell (NZ) Ltd., the largest supplier of arc welding electrodes in New Zealand, will also be on show at the New Zealand Industries Trade Exhibition. The company’s factory at Napier manufactures electrodes under licence from Philips N.V. of the Nether ~ lands, and produces the full range of Philips electrodes, from mild steel and hardfacing to special alloy types. Weldwell also manufactures gas equipment and accessories, gas rods and fluxes, arc accessories and T.1.G. equipment. Welding and cutting torches and attachments are produced under the “STEADYFLAME” brand name. This is relatively new equipment and products incor porate all the latest safety measures and efficiency features required of today’s cutting and welding gear. Regulators for oxygen, acetylene, argon and CO 2 gases are produced under the “STEADYFLO” brand name. These well-established and proven products are marketed widely throughout New Zealand and overseas. The “STEADYFLO” T.I. G. torch is another pro- “duct made by Weldwell. These are available in aircooled or water-cooled mo- dels. Additionally, the company manufactures a wide range of accessories for use in arc, gas, automatic, spot and stud welding. Although Weldwell does not manufacture gas, it was the first New Zealand company to introduce the techniques or low-temperature gas welding and flux coated gas rods. The company is now a leader in the supply of gas rods and fluxes to markets at home and abroad."
+    },
+    {
+      "id": "b895ca7a-043f-4214-afcb-d83fb9901f60",
+      "article_id": "e00e9a94-d2b7-49f0-a5c6-3a1c9cb4ffcc",
+      "page_index": 4,
+      "bbox_orig": [
+        146.28099173553693,
+        180.165289256198,
+        416.52892561983396,
+        228.92561983471032
+      ],
+      "type": "Title",
+      "text": "THE NMEA AWARDS"
+    },
+    {
+      "id": "b81148eb-1ade-4a1f-9d1e-0ccf21b21b64",
+      "article_id": "e00e9a94-d2b7-49f0-a5c6-3a1c9cb4ffcc",
+      "page_index": 4,
+      "bbox_orig": [
+        55.65999999999992,
+        221.42999999999967,
+        517.8799999999992,
+        736.8899999999988
+      ],
+      "type": "Body",
+      "text": "At the National Marine Electronics Association Annual Meeting at Baha Mar Hotel in Fort Lauderdale in February, the NMEA awards for performance & reliability in marine electronics equipment were presented to nine manufacturers. Modar received two awards for SSB & VHFEM. The indicating depth award was given to Datamarine while Simrad received the Loran C award. Sitex/Kelvin Hughes was presented with the small depth recorder award. The two companies tied in the radar category received the radar awards were ITT Decca & Konel/Furono, Konel/Furono also received award for large depth recorder. The large autopilot award went to Metal Marine while the small autopilot award was presented to Benmar. Lastly the Loran A award was won by Morrow Electronics."
+    },
+    {
+      "id": "220ca890-0979-4cab-ab1a-7d4da520935b",
+      "article_id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+      "page_index": 5,
+      "bbox_orig": [
+        860.3446655273438,
+        169.68882751464844,
+        1563.212158203125,
+        658.9751586914062
+      ],
+      "type": "Body",
+      "text": "Soe Serres San we Seeeeeeee ae Se ee ee ee Jurong and the other is in Kallang to serve the eastern part. A few of their boats are doing service in Malaysian waters, particularly in Johore which is at the southern tip of Peninsula Malaysia. Apart from this the rest of the company’s boats are serving in waters as far away as Sabah, Sarawak, Brunei, Indonesia, Thailand, Philippines and Burma. The last of the conglomerate, Corporate Marine Private Limited, concentrates mainly on the building of ships of up to about 1200 tons, barges and tug boats. It builds these vessels both for the organisation’s own use and for sale. Corporate also undertakes to build coastal vessels to the specifications of the client. These coastal vessels can be cargo carriers, oil carriers, passenger launches and all forms of ferries. It is capable of preparing blue prints for a vessel as it has a naval architect on contract. The company has two shipyards. One in Jurong and the other in Ponggol."
+    },
+    {
+      "id": "57967a00-f588-4f8b-97b3-b3b9d0b6e5ff",
+      "article_id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+      "page_index": 5,
+      "bbox_orig": [
+        145.4278564453125,
+        275.79107666015625,
+        842.6528930664062,
+        718.7083129882812
+      ],
+      "type": "Body",
+      "text": "Chinese business acumen, industry and sheer will to succeed are the elements behind the impressive progress of Chin Huat Shipping in Jalan Benaan Kapal in Singapore. The firm was started by Mr Koh Chaw Siew some eight years ago. He had vast knowledge of shipbuilding and this he put to use to form the parent ship building company. Now the firm has grown into a conglomorate of Chin Huat Shipping, Marcom Marine Services and Corporate Marine Pte Limited. What started out as a family business in shipbuilding is beginning to diversify into many sectors of the shipping industry. Each company within the organisation has more or less very specific functions. Chin Huat, for example, has begun to specialise in ship repairing. It maintains two slipways capable of taking in vessels of up to 1200 tons, 160 ft long and 50 ft wide. Both the slipways are never empty. Their workmanship is in great demand. At the moment most of the repair work is being done on barges and"
+    },
+    {
+      "id": "c048018e-6d3a-48b8-a170-888834e3e226",
+      "article_id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+      "page_index": 5,
+      "bbox_orig": [
+        855.6829223632812,
+        648.346923828125,
+        1551.85791015625,
+        1533.22412109375
+      ],
+      "type": "Image",
+      "text": "",
+      "path": "Processed_Articles\\images\\81b2d5e5-4cd2-4b94-bc38-e5052fe6d029_946042256fe34a6cbbafb9033ac3f185.png"
+    },
+    {
+      "id": "eae101fe-f3ab-4fe5-a4a0-3e12a838e998",
+      "article_id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+      "page_index": 5,
+      "bbox_orig": [
+        860.5226440429688,
+        651.5065307617188,
+        1552.5283203125,
+        1189.3111572265625
+      ],
+      "type": "Image",
+      "text": "",
+      "path": "Processed_Articles\\images\\81b2d5e5-4cd2-4b94-bc38-e5052fe6d029_ae5e3f4829df46eba9b814c497700e6b.png"
+    },
+    {
+      "id": "e53cacfb-08c6-4135-8719-627eaaca7c2b",
+      "article_id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+      "page_index": 5,
+      "bbox_orig": [
+        148.80392456054688,
+        737.5576171875,
+        836.9102172851562,
+        1250.468505859375
+      ],
+      "type": "Image",
+      "text": "",
+      "path": "Processed_Articles\\images\\81b2d5e5-4cd2-4b94-bc38-e5052fe6d029_676d571a5b3f4a968a80b8f78bd9d2e0.png"
+    },
+    {
+      "id": "db4e3e53-20c6-4e34-8cbc-6d3ae28d9838",
+      "article_id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+      "page_index": 5,
+      "bbox_orig": [
+        861.5567626953125,
+        1187.429931640625,
+        1555.55859375,
+        1517.705078125
+      ],
+      "type": "Image",
+      "text": "",
+      "path": "Processed_Articles\\images\\81b2d5e5-4cd2-4b94-bc38-e5052fe6d029_9ed3fbee4fa5459088918280f773e36f.png"
+    },
+    {
+      "id": "f387c803-aae9-4dad-8e7a-71134955b73b",
+      "article_id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+      "page_index": 5,
+      "bbox_orig": [
+        145.73727416992188,
+        1240.71142578125,
+        844.8297119140625,
+        1751.2177734375
+      ],
+      "type": "Body",
+      "text": "Ce ae ee a ee os er ee 2 Chin Huat also carry out floating repairs. This they do through absolute necessity due to the congestion in the Kallang river where their slipways are located. To facilitate floating repairs are the company maintains well stocked boats and experienced technicians. Despite this inconvenience their charges are very competitive. The company’s operations are not limited to Singapore only. It does carry out work in neighbouring countries as well. Infact, it 1s sufficiently equipped to repair a ship in any waters. It has done work in Malaysia and in Indonesia. The company has earned a good reputation for being prompt with work. Marcom specialises in towing services in the Singapore harbour. It reputedly has the largest single fleet of harbour tugs. These tugs are on 24 hour call and can reach anywork site in Singapore waters within three hours of call. Its towing services not only work 24 hours a day but also through holidays. Each tow-boat is equipped with its own independent communication system monitored through a control centre. This makes it easier and faster for deployment of boats and work to start."
+    },
+    {
+      "id": "d89a222a-ec3e-4bed-955d-d5deabb7aaa3",
+      "article_id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+      "page_index": 5,
+      "bbox_orig": [
+        847.48486328125,
+        1512.076904296875,
+        1574.1064453125,
+        1709.6842041015625
+      ],
+      "type": "Body",
+      "text": "A brand new tow boat for Marcom almost completed and another under construction at ‘ne of Corporate’s shipyards. Most of the trade, as regards sales of vessels, is being done mainly in Sabah and Sarawak (East Malaysia), the Middle East and Indonesia. Barges, especially, are built, launched, loaded and towed to countries and sold there. These barges are towed by hired vessels. Depo cror trys Sat A eR a ETP ERR ars meena: |"
+    },
+    {
+      "id": "65156167-fa94-404b-bdb1-edff9476a710",
+      "article_id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+      "page_index": 5,
+      "bbox_orig": [
+        865.0264892578125,
+        1693.916748046875,
+        1562.65087890625,
+        2093.781982421875
+      ],
+      "type": "Image",
+      "text": "",
+      "path": "Processed_Articles\\images\\81b2d5e5-4cd2-4b94-bc38-e5052fe6d029_29438090c23c46839fca6f21924f1c89.png"
+    },
+    {
+      "id": "6a367ce1-b64e-43f8-9ba6-c881e134cc53",
+      "article_id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+      "page_index": 5,
+      "bbox_orig": [
+        160.02745056152344,
+        1747.8902587890625,
+        818.3740844726562,
+        2218.998291015625
+      ],
+      "type": "Image",
+      "text": "",
+      "path": "Processed_Articles\\images\\81b2d5e5-4cd2-4b94-bc38-e5052fe6d029_a52dd96e713549a482f22fd42d6a5a9f.png"
+    },
+    {
+      "id": "51276ed9-39d8-408d-b2de-b24154a79c4a",
+      "article_id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+      "page_index": 5,
+      "bbox_orig": [
+        811.8782958984375,
+        2084.021240234375,
+        1583.08203125,
+        2260.84130859375
+      ],
+      "type": "Body",
+      "text": "One of Corporate § barges being taunched into the hatlang River. The most spectacular work the organisation does is to launch oil rigs. This is undertaken by Marcom. It has launched the largest number in Singapore. Infact the organisation as a whole pioneered ers| _ the oil rig launching industry."
+    },
+    {
+      "id": "b67d1fb3-76cc-4938-85e1-1fbeb249a3ba",
+      "article_id": "81b2d5e5-4cd2-4b94-bc38-e5052fe6d029",
+      "page_index": 5,
+      "bbox_orig": [
+        140.0,
+        155.0,
+        845.0,
+        265.0
+      ],
+      "type": "Title",
+      "text": "The Chin Huat Saga"
+    },
+    {
+      "id": "d2959ab4-5703-4da6-82e7-52f642c8c84a",
+      "article_id": "898ef494-09ab-4c66-b293-66543b7bed43",
+      "page_index": 7,
+      "bbox_orig": [
+        645.0,
+        180.0,
+        1405.0,
+        420.0
+      ],
+      "type": "Title",
+      "text": "TECHNOLOGY AND WELDING EQUIPMENT FOR SHIPBUILDING INDUSTRY"
+    },
+    {
+      "id": "bd313a9d-f07d-47cf-925a-90128783e9e3",
+      "article_id": "9b108d02-6535-4aa1-94cc-ad21e292cdc6",
+      "page_index": 9,
+      "bbox_orig": [
+        266.91278076171875,
+        883.3734130859375,
+        541.6473388671875,
+        962.0865478515625
+      ],
+      "type": "Title",
+      "text": "BARBER BLUE SEA — NEW VESSELS"
+    },
+    {
+      "id": "c81acac8-385b-4851-b59d-5957c61d90f1",
+      "article_id": "9b108d02-6535-4aa1-94cc-ad21e292cdc6",
+      "page_index": 9,
+      "bbox_orig": [
+        623.0708618164062,
+        929.8695678710938,
+        1550.72412109375,
+        2307.563232421875
+      ],
+      "type": "Image",
+      "text": "",
+      "path": "Processed_Articles\\images\\9b108d02-6535-4aa1-94cc-ad21e292cdc6_a1ff16c9e3c5474184e2e98a47c3d339.png"
+    },
+    {
+      "id": "3dd0d510-4059-459f-95b7-2b0ff391fd87",
+      "article_id": "9b108d02-6535-4aa1-94cc-ad21e292cdc6",
+      "page_index": 9,
+      "bbox_orig": [
+        141.3753204345703,
+        971.3040771484375,
+        628.4940795898438,
+        1765.135009765625
+      ],
+      "type": "Body",
+      "text": "Barber Blue Sea (BBS) is planning to introduce new vessels on their Far East - USA — Far East routes in 1977. In an announcement Kaare B Isaksen, Senior Vice President of BBS, said: “M S ‘TSU’ now enroute from Japan to Panama on her maiden voyage is due Miami on June 14. This is the first of ten new Combo Class vessels being built for BBS to replace some of our present fleet and we expect all ten vessels to be in operation by the end of 1977. ~ The ten new Combo Class vessels will supplement similar type of vessels already operating successfully in the BBS Service to Panama, East Coast USA and East Canada. Mr Isaksen continued, “We offer four sailings per month on fixed dates from the Far East to US/ Canadian Atlantic Ports and in keeping with our philisophy of catering to all transportation modes, the vessels will be able to accommodate unitised general cargo, containers, heavy lifts, rolling stock, refrigerated cargoes and bulk liquids in specially built deeptanks. The new vessels will provide improved loading capacities to all customers including 550/600 TEU’s per sailing and as they are self sustaining, they can call at ports which do not have container cranes. We will, generally speaking, continue to serve ports on a direct basis which we believe is what the customer requires”. The areas covered by BBS are Singapore, Malaysia, Indonesia, Thailand, Philippines, HongKong, Taiwan, Korea, Japan, East and West Canada, US East, West and Gulf Coasts, Panama and Venezuela."
+    },
+    {
+      "id": "2226cd1f-559a-4185-aea0-1a96d3dd7807",
+      "article_id": "9b108d02-6535-4aa1-94cc-ad21e292cdc6",
+      "page_index": 9,
+      "bbox_orig": [
+        146.28067016601562,
+        1898.266357421875,
+        630.8570556640625,
+        2257.28369140625
+      ],
+      "type": "Body",
+      "text": "A new container service to Jeddah and Aqaba in the Red Sea started from Tilbury in the Port of London Authority on July 2. The service, which is being run by P & O Strath services, will mean sailings to that part of West Asia from Tilbury every 18 days. Vessels will each be capable of carrying 310 containers. This service is a follow-up of the Arabian Peninsular Container Line Service started recently by P & OStrath-Ellerman jointly with the United Arab Shipping Company. This has sailings every 11 days from Tilbury, and alternatively Liverpool, to Dubai, Muscat, Bahrain and Kuwait."
+    },
+    {
+      "id": "8ad926fc-c69b-4763-b90b-c99e358e6f93",
+      "article_id": "3c38ff7e-0b1b-4e5d-a9df-db455cf1bed0",
+      "page_index": 9,
+      "bbox_orig": [
+        177.58349839491834,
+        1813.400723994262,
+        594.2217061676114,
+        1891.9472713612454
+      ],
+      "type": "Title",
+      "text": "NEW CONTAINER SERVICE TO SAUDI ARABIA"
+    },
+    {
+      "id": "d9060641-50a2-4ab9-a8e4-1069953216ad",
+      "article_id": "3c38ff7e-0b1b-4e5d-a9df-db455cf1bed0",
+      "page_index": 9,
+      "bbox_orig": [
+        140.01775834983945,
+        1895.3623386380707,
+        631.7874462126903,
+        2274.434806365685
+      ],
+      "type": "Body",
+      "text": "A new container service to Jeddah and Aqaba in the Red Sea started from Tilbury in the Port of London Authority on July 2. The service, which is being run by P & O Strath services, will mean sailings to that part of West Asia from Tilbury every 18 days. Vessels will each be capable of carrying 310 containers. This service is a follow-up of the Arabian Peninsular Container Line Service started recently by P & OStrath-Ellerman jointly with the United Arab Shipping Company. This has sailings every 11 days from Tilbury, and alternatively Liverpool, to Dubai, Muscat, Bahrain and Kuwait."
+    },
+    {
+      "id": "5db51acb-d4d4-4341-b8dc-3d5641f643ba",
+      "article_id": "d29971c3-2176-4522-a57f-3d37f8d46dd3",
+      "page_index": 10,
+      "bbox_orig": [
+        75.99014282226562,
+        794.14697265625,
+        1028.0435791015625,
+        2275.548095703125
+      ],
+      "type": "Image",
+      "text": "",
+      "path": "Processed_Articles\\images\\d29971c3-2176-4522-a57f-3d37f8d46dd3_6ac6a269cd40471d99df11ac9017e0e7.png"
+    },
+    {
+      "id": "fff84ec7-a343-4f8e-b71b-061737c06cf9",
+      "article_id": "f00d5131-6ab3-4e2f-bb2c-105768ad95b0",
+      "page_index": 13,
+      "bbox_orig": [
+        412.2060241699219,
+        158.8062744140625,
+        1187.7652587890625,
+        246.5093994140625
+      ],
+      "type": "Title",
+      "text": "SMIT At World Cross-Roads Ge ee ee ae eee Racidac the canahilitu and cnirit af the caer cae ee"
+    },
+    {
+      "id": "57f47e27-a3a1-453c-97c9-ebe85ca465eb",
+      "article_id": "f00d5131-6ab3-4e2f-bb2c-105768ad95b0",
+      "page_index": 13,
+      "bbox_orig": [
+        117.75971221923828,
+        227.03460693359375,
+        601.6730346679688,
+        759.2584838867188
+      ],
+      "type": "Body",
+      "text": "In 1842, Smit International started its activities with one paddle tug assisting sailing ships from the North Sea to Rotterdam and back. This modest beginning developed into a worldwide. organisation which is now called the Smit International Group. For years deepsea, coastal and harbour towage, as well as salvage were the mainstay of the company’s activities. With the development of offshore activities, SMIT’s involvements became more numerous and varied with offshore supply services, rig moves, anchor handling, heavy and high lift operations, wreck removal, marine offshore engineering, deepsea diving, underwater survey and maintenance and submersible barge operations. These are just to name some of the Smit International’s worldwide activities."
+    },
+    {
+      "id": "f3ea5d0b-470c-43a3-9408-daa38c628e92",
+      "article_id": "f00d5131-6ab3-4e2f-bb2c-105768ad95b0",
+      "page_index": 13,
+      "bbox_orig": [
+        1065.7647705078125,
+        228.9735107421875,
+        1545.1793212890625,
+        628.3770141601562
+      ],
+      "type": "Body",
+      "text": "with the sophisticated equipment and the good spirit of the men executing their task are the key to the success of Smit International. It does not only benefit the clients but is also invaluable to the area they operate in. It goes without saying that, especially in marine salvage, a well executed and swift operation can often mean the prevention of extensive damage to property and to the environment. The combination of the generation old expertise and experience of the Smit International Group together with the local knowledge of their Asian counterpart has become another step towards mutual understanding and success."
+    },
+    {
+      "id": "d4cbddcd-25df-428a-bc3a-5f458ec14e6c",
+      "article_id": "f00d5131-6ab3-4e2f-bb2c-105768ad95b0",
+      "page_index": 13,
+      "bbox_orig": [
+        585.8618774414062,
+        233.50619506835938,
+        1065.574951171875,
+        620.0321044921875
+      ],
+      "type": "Body",
+      "text": "Besides the capability and spirit of the men in the company, the equipment is one .very important factor which decides on success or failure. Since its very first days, the Smit International Group has never settled for any inferior quality or inadequate quantity of its equipment. Their tugs, cranes, barges and salvage vessels are all of first class construction and a top standard of maintenance is kept. Since the company operates worldwide, it can afford to carry out constant research for new equipment or methods. The vast experience gained is used to the benefit of each client who requires the service. SS eee Se a ane ens ieee cee Nae a"
+    },
+    {
+      "id": "522a7bcc-2cac-434b-bf99-55bff742470f",
+      "article_id": "f00d5131-6ab3-4e2f-bb2c-105768ad95b0",
+      "page_index": 13,
+      "bbox_orig": [
+        586.7556762695312,
+        613.933349609375,
+        1567.7322998046875,
+        2207.634521484375
+      ],
+      "type": "Image",
+      "text": "",
+      "path": "Processed_Articles\\images\\f00d5131-6ab3-4e2f-bb2c-105768ad95b0_d122c2d2e95e41f8b5efe0a938009514.png"
+    },
+    {
+      "id": "29fd7f47-03a3-4887-9533-fc9329a71576",
+      "article_id": "f00d5131-6ab3-4e2f-bb2c-105768ad95b0",
+      "page_index": 13,
+      "bbox_orig": [
+        129.8917999267578,
+        784.4284057617188,
+        581.2325439453125,
+        1123.6842041015625
+      ],
+      "type": "Image",
+      "text": "",
+      "path": "Processed_Articles\\images\\f00d5131-6ab3-4e2f-bb2c-105768ad95b0_c02c2bcb52ed491c81dc9ab1c4f86a21.png"
+    },
+    {
+      "id": "04df3e76-89ac-46cb-be9f-30aa881452ec",
+      "article_id": "f00d5131-6ab3-4e2f-bb2c-105768ad95b0",
+      "page_index": 13,
+      "bbox_orig": [
+        113.85681915283203,
+        1153.704345703125,
+        595.7845458984375,
+        2253.468017578125
+      ],
+      "type": "Body",
+      "text": "The Smit International Group realised that their expertise and experience are also required in other parts of the world and therefore a number of operating companies was established all over the world. Naturally, these companies were set up in strategic positions around the globe. For the Far East and South East Asia, the obvious choice was Singapore, the crossroads of the world shipping lanes. Since 1975, Smit International South East Asia has its home in Singapore and during its time of existence has proved its capability, ability for quick response and expertise on numerous occasions. Led by a handful of experienced men from the parent company, a group of some 160 well trained, enthusiastic specialists carry on the tradition of Smit International in Asia. They all have one objective — making their tough and sometime dangerous job a success. All are proud to be members of this outstanding organisation which has integrated them fully into the company’s family, and the company is equally proud to have them under their flag. Good international understanding grooms in an atmosphere of mutual respect and the preparedness to work together on equal basis — all for one and one for all. Working in SMIT is a challenge for the workers and everyone benefits through the efforts of the Group in the true ‘team spirit’. This is a feeling which can only be appreciated when one has to look into the tired but beaming faces of the men who are satisfied to have accomplished a task together and have a right to be proud of it. As expected Smit found this spirit as much in Asia as every where else in the world, the spirit of men who are determined to face the elements and to win."
+    },
+    {
+      "id": "9777d1e1-df3c-458e-9087-a1675e9d3dfc",
+      "article_id": "d29971c3-2176-4522-a57f-3d37f8d46dd3",
+      "page_index": 10,
+      "bbox_orig": [
+        399.99999999999994,
+        181.81818181818178,
+        1277.272727272727,
+        290.9090909090909
+      ],
+      "type": "Title",
+      "text": "The LASH Leaders"
+    },
+    {
+      "id": "0c1e09b8-56ef-4b15-b607-406316c9a8a0",
+      "article_id": "d29971c3-2176-4522-a57f-3d37f8d46dd3",
+      "page_index": 10,
+      "bbox_orig": [
+        69.97610703145997,
+        315.9527256875011,
+        547.0859277005052,
+        786.701082080959
+      ],
+      "type": "Body",
+      "text": "The world’s first LASH (Lighter Aboard Ship) operator today operates the world’s largest LASH fleet. Central Gulf Lines pioneered LASH operations, beginning in 1969 with the the world’s first LASH vessel, M/V ACADIA FOREST, and adding a sister ship, M/V ATLANTIC FOREST, in 1970. Both of these 860-foot-long, 46, 500-ton, 83 LASH barge-capacity vessels serve U.S. Gulf ports, UK/North Europe and the Middle East. The. company’s LASH system demonstrated cargo shipper and operational advantages both for areas that contain back-up inland river systems, as well as for major and developing port areas that are not connected to such inland systems. Initial operating experience proved the soundness and versatility of LASH as an effective transportation system, and Central Gulf proceeded with a $120 million fleet expansion program that encompassed"
+    },
+    {
+      "id": "ae429c04-6035-47a5-a55a-89c3c1658e7a",
+      "article_id": "d29971c3-2176-4522-a57f-3d37f8d46dd3",
+      "page_index": 10,
+      "bbox_orig": [
+        553.4473919760925,
+        315.9527256875011,
+        1015.7137960021008,
+        797.3035225402712
+      ],
+      "type": "Body",
+      "text": "the building of three LASH vessels and more than 600 LASH barges. These new LASH vessels, S.S. GREEN VALLEY, GREEN HARBOUR and GREEN ISLAND inaugurated in late 1974 the first LASH service to Singapore, Indonesia, Malaysia and other South East Asian points, serving U.S. Gulf and East coast ports outbound and inbound. Sailings every 25 days were established, resulting in positive acceptance by exporters and importers. Largest cargoliners of their type, the vessels carry 89 LASH barges, are 893 feet long, have a service speed of 22 knots and a deadweight of 46,039 tons. Central Gulf’s world-leading LASH barge fleet now numbers 1,430 units. In addition, the company has developed and operates four float-on/ float-off barge feeder vessels called FLASH. The FLASH carriers are shallow-draft vessels that carry from eight to 15 LASH barges to and from"
+    },
+    {
+      "id": "15586600-fca7-4c25-b427-0f24a82288e0",
+      "article_id": "d29971c3-2176-4522-a57f-3d37f8d46dd3",
+      "page_index": 10,
+      "bbox_orig": [
+        1026.316236461413,
+        315.9527256875011,
+        1497.0645928548709,
+        1331.666521689602
+      ],
+      "type": "Body",
+      "text": "ports that cannot accommodate oceangoing liners and that were formerly served only by indirect means involving numerous transhipments of cargo. The FLASH vessels are towed by seagoing towboats between the LASH ocean carrier that calls major ports and the many outlying ports that Central Gulf serves. Central Gulf re-entered the Middle East trade in the fall of 1975, offering LASH service regularly from U.S. Gulf and East coast ports to ports in the Red Sea and Arabian-Persian Gulf. Today, Central Gulf operates seven LASH vessels on regularlyscheduled sailings to the Middle East, while continuing to maintain its established service commitments to the United Kingdom, Europe and South East Asia. Expanding its Middle East service to provide shippers with additional advanced shipping methods, Central Gulf in June of 1976 began operating the new roll-on/roll-off (RO/RO) vessel S.S. Arizona from U.S. Gulf and East coast ports direct to the Saudi Arabian ports of Jeddah and Dammam. The 19,543-ton Arizona is one of the fastest (23 knots) and most advanced ships of its type in the world Central Gulf in 1971 became an affiliate of Trans Union Corporation, a multi-division company headquartered in Chicago and active in the fields of transportation, manufacturing, real estate leasing, and water and waste treatment. Central Gulf heads up the corporation’s Ocean Shipping Group. The affiliation with Trans Union has enabled Central Gulf Lines to proceed with plans for continued growth and expansion of its fleet, while providing for continuation and broadening of comprehensive transportation services for firms engaged in foreign trade. Entering its fourth decade of service, Central Gulf Lines is the world’s largest LASH operator and one of the United States’ leading vessel owners and operators. The agents in Singapore for Central Gulf Lines, Inc., are Orient Lloyd Sdn. Bhd."
+    },
+    {
+      "id": "fed58f40-f4bd-4418-8954-c5d521a5ef74",
+      "article_id": "a41999be-877a-4ef5-a5b6-3a70ae4ad49e",
+      "page_index": 10,
+      "bbox_orig": [
+        1081.448926849836,
+        1397.401652537337,
+        1456.7753191094848,
+        1484.3416643036965
+      ],
+      "type": "Title",
+      "text": "CHINA SHIPS USE LONDON CHINA TERMINAL"
+    },
+    {
+      "id": "1558abae-504b-4e59-bd0c-d82c37a2b46f",
+      "article_id": "a41999be-877a-4ef5-a5b6-3a70ae4ad49e",
+      "page_index": 10,
+      "bbox_orig": [
+        1028.6487733624617,
+        1485.8260059680001,
+        1495.1561535721949,
+        1868.3620577399813
+      ],
+      "type": "Body",
+      "text": "The first ever exports shipped through the Port | of London Authority’s (PLA) enclosed docks to the People’s Republic of China were recently loaded onto the China Ocean Shipping Company’s (C.0.S.C.0.) vessel “Dongshan” at the China Terminal in the Royal Albert Dock. Over 1,000 tonnes, consisting mainly of press packed bales of man-made fibres and reels of strip steel on pallets, were loaded during this initial shipment for Whampoa. The PLA is hopeful that this initial breakthrough will now build up into a regular feature of their trade to augment the existing buoyant import trade that has grown up since the Terminal was opened in 1974."
+    },
+    {
+      "id": "b09f0d7a-2bcc-41cd-a598-8e7eaa08b1bc",
+      "article_id": "2f1e3f1a-fc74-4d8c-83c5-8e262bb32194",
+      "page_index": 10,
+      "bbox_orig": [
+        1112.6201018002137,
+        1898.685037453614,
+        1420.5149727386374,
+        1956.9984599798306
+      ],
+      "type": "Title",
+      "text": "ANRO’S NEW BABY"
+    },
+    {
+      "id": "9a175698-43ac-480f-8931-5ca148729617",
+      "article_id": "2f1e3f1a-fc74-4d8c-83c5-8e262bb32194",
+      "page_index": 10,
+      "bbox_orig": [
+        1033.3138471645589,
+        1956.9984599798306,
+        1530.1442070879248,
+        2278.8885523245467
+      ],
+      "type": "Body",
+      "text": "Work is nearing completion on the first of three container vessels of advanced yard design being built by the Kawasaki Heavy Industries yard at Kobe, Japan for the newly-formed ANRO consortium. This hybrid roll-on/roll-off and lift-on/lift-off ship will serve the trade with an llday frequency of sailings between Australia, Singapore and Malaysia starting in October this year. There will be a heavy emphasis on carrying meat, fruit and vegetables in refrigerated containers from Australia to S.E. Asia and bringing cargo in containers and unitised timber ‘on return trips to Australia."
+    }
+  ]
+}
