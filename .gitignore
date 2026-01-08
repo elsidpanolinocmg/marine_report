@@ -1,0 +1,6 @@
+env
+.env
+__pycache__
+Annotations_ignore
+annotations_dataset_ignore
+PDFS_ignore

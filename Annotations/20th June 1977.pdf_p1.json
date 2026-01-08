@@ -1,0 +1,39 @@
+{
+  "pdf": "20th June 1977.pdf",
+  "page_no": 1,
+  "annotations": [
+    {
+      "id": "78e222e7-0355-411c-a440-7993cd0b6a99",
+      "label": "Article Title",
+      "bbox_orig": [
+        215,
+        888,
+        709,
+        1151
+      ],
+      "ocr_text": "THE\nANDRO\nCONSORTIUM"
+    },
+    {
+      "id": "34cfca4a-ff01-4983-aecd-19adde5574e3",
+      "label": "Article Body",
+      "bbox_orig": [
+        178,
+        1146,
+        804,
+        1272
+      ],
+      "ocr_text": "The ANDRO Consortium which consists of the\nAustralian National Line, Neptune Orient Lines, Over-\nseas Containers Australia and Nedlloyd Lines, will be"
+    },
+    {
+      "id": "800b4fee-2fc9-4425-9b63-14d73c190c64",
+      "label": "Article Body",
+      "bbox_orig": [
+        815,
+        867,
+        1435,
+        1277
+      ],
+      "ocr_text": "operating three hybrid roll-on roll-off, lift-on lift-off\ncontainer vessels between Australian ports and\nPenang, Port Kelang, Singapore and Jarkarta. This\nservice will be on an 11-day-day frequency.\n\nOn board the MV ‘Bennelong’ recently, the ANRO\nconsortium played host to members of the Malayan\nTrade Mission on a Sydney harbour cruise and bar-\nbeque. Seen in the picture are, from left: Mr. A.R.\nBooth, ANL, Mr. Jim Lim, NOL, Mr. Lim Seng Huat,\nMalaysian Commissioner for Trade, Sydney, Mr. Mar-\ntin:Speyer, OCAL, Mr. J.C.P. Van Diepen, Nedlloyd\nLines and Mr. Aziz Kassim, member of the trade\nmission."
+    }
+  ]
+}
