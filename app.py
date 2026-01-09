@@ -8,6 +8,7 @@ from tkinter import filedialog, messagebox
 from pdf2image import convert_from_path
 from PIL import Image, ImageTk
 import pytesseract
+import re
 
 import ocr_utils
 import storage
@@ -511,7 +512,6 @@ class NewspaperOCRApp:
                 return
         threading.Thread(target=self._detect_all_pages_thread, daemon=True).start()
 
-
     def _detect_all_pages_thread(self):
         for page_idx, pil in enumerate(self.pages):
             temp_path = os.path.join(SESSION_DIR, f"page_{page_idx}.png")
@@ -550,12 +550,20 @@ class NewspaperOCRApp:
                     img_dir.mkdir(parents=True, exist_ok=True)
 
                     crop = pil.crop(bbox_orig)
-                    img_path = img_dir / f"{art['title']+"-"+ art['id']}_{uuid.uuid4().hex}.png"
+                    img_filename = safe_filename(f"{art['title']+"-"+ art['id']}_{uuid.uuid4().hex}")+".png"
+                    img_path = (
+                        img_dir
+                        / img_filename
+                    )
                     crop.save(img_path)
 
                     ann["path"] = str(img_path)
                     art.setdefault("images", []).append(
-                        {"path": str(img_path), "bbox": bbox_orig, "page_index": page_idx}
+                        {
+                            "path": str(img_path),
+                            "bbox": bbox_orig,
+                            "page_index": page_idx,
+                        }
                     )
 
                 # 🧠 TEXT / OCR HANDLING
@@ -652,7 +660,8 @@ class NewspaperOCRApp:
                 img_dir = Path(OUTPUT_DIR) / "images"
                 img_dir.mkdir(parents=True, exist_ok=True)
                 crop = pil.crop(bbox_orig)
-                img_path = img_dir / f"{art['id']}_{uuid.uuid4().hex}.png"
+                img_filename = safe_filename(f"{art['title']+"-"+ art['id']}_{uuid.uuid4().hex}")+".png"
+                img_path = img_dir / img_filename
                 crop.save(img_path)
                 ann["path"] = str(img_path)
                 art.setdefault("images", []).append(
@@ -677,6 +686,15 @@ class NewspaperOCRApp:
         messagebox.showinfo(
             "ML Detection", f"Auto-detection completed for page {page_idx+1}."
         )
+
+
+def safe_filename(text, max_len=60):
+    if not text:
+        return "untitled"
+    text = text.strip()
+    text = re.sub(r"[^\w\s-]", "", text)  # remove special chars
+    text = re.sub(r"\s+", "_", text)  # spaces → _
+    return text[:max_len]
 
 
 def main():
